@@ -1,0 +1,721 @@
+Number of ligands: 1
+
+
+========== Hydrogen Bonds ===========================================================================
+     Type Ligand Title                  LigResidue     LigAtom   RecResidue     RecAtom   Dist  Angle
+HAccep nn      1                          _:0(UNK)    14( O  )   R:208(ARG)  2735(HH22)  1.883  109.7
+HAccep cc      1                          _:0(UNK)    22( O  )   R:286(ARG)  4073(HH12)  2.275  155.8
+HAccep nc      1                          _:0(UNK)    22( O  )   R:286(ARG)  4075(HH22)  2.049  109.9
+HAccep nn      1                          _:0(UNK)    24( O  )   R:135(TYR)  1513( HH )  1.771  107.3
+
+Interactions grouped by receptor residue:
+    Type Residue        # of ligands # of contacts
+   HBond R:135(TYR)            1        1
+    ligand title:                         interactions:   1
+   HBond R:208(ARG)            1        1
+    ligand title:                         interactions:   1
+   HBond R:286(ARG)            1        2
+    ligand title:                         interactions:   2
+Total Hydrogen Bonds interactions: 4
+
+========== Good Contacts ============================================================================
+     Type Ligand Title                  LigResidue     LigAtom   RecResidue     RecAtom   Dist  Angle
+     Good      1                          _:0(UNK)     1( P  )   R:205(PHE)  2655( N  )  4.318    N/A
+     Good      1                          _:0(UNK)     1( P  )   R:205(PHE)  2656( CA )  3.919    N/A
+     Good      1                          _:0(UNK)     1( P  )   R:205(PHE)  2657( C  )  4.537    N/A
+     Good      1                          _:0(UNK)     1( P  )   R:205(PHE)  2661( CD1)  4.242    N/A
+     Good      1                          _:0(UNK)     1( P  )   R:205(PHE)  2667( HA )  2.874    N/A
+     Good      1                          _:0(UNK)     1( P  )   R:205(PHE)  2670( HD1)  3.371    N/A
+     Good      1                          _:0(UNK)     1( P  )   R:208(ARG)  2721( CZ )  4.085    N/A
+     Good      1                          _:0(UNK)     1( P  )   R:208(ARG)  2722( NH1)  3.751    N/A
+     Good      1                          _:0(UNK)     1( P  )   R:208(ARG)  2723( NH2)  3.857    N/A
+     Good      1                          _:0(UNK)     1( P  )   R:208(ARG)  2733(HH12)  3.092    N/A
+     Good      1                          _:0(UNK)     1( P  )   R:208(ARG)  2735(HH22)  3.233    N/A
+     Good      1                          _:0(UNK)     2( C  )   R:128(LYS)  1385( CD )  3.882    N/A
+     Good      1                          _:0(UNK)     2( C  )   R:128(LYS)  1387( NZ )  4.136    N/A
+     Good      1                          _:0(UNK)     2( C  )   R:128(LYS)  1394( HD3)  3.601    N/A
+     Good      1                          _:0(UNK)     2( C  )   R:128(LYS)  1395( HD2)  3.160    N/A
+     Good      1                          _:0(UNK)     2( C  )   R:128(LYS)  1400( HZ3)  3.621    N/A
+     Good      1                          _:0(UNK)     2( C  )   R:132(THR)  1445( CG2)  3.798    N/A
+     Good      1                          _:0(UNK)     2( C  )   R:132(THR)  1451(HG22)  3.535    N/A
+     Good      1                          _:0(UNK)     2( C  )   R:132(THR)  1452(HG23)  3.218    N/A
+     Good      1                          _:0(UNK)     2( C  )   R:193(THR)  2485( CG2)  4.343    N/A
+     Good      1                          _:0(UNK)     2( C  )   R:193(THR)  2490(HG21)  3.258    N/A
+     Good      1                          _:0(UNK)     2( C  )   R:208(ARG)  2722( NH1)  4.285    N/A
+     Good      1                          _:0(UNK)     2( C  )   R:208(ARG)  2723( NH2)  4.012    N/A
+     Good      1                          _:0(UNK)     2( C  )   R:208(ARG)  2735(HH22)  3.467    N/A
+     Good      1                          _:0(UNK)     3( N  )   R:205(PHE)  2657( C  )  3.770    N/A
+     Good      1                          _:0(UNK)     3( N  )   R:205(PHE)  2658( O  )  3.072    N/A
+     Good      1                          _:0(UNK)     3( N  )   R:289(TYR)  4127( OH )  3.988    N/A
+     Good      1                          _:0(UNK)     3( N  )   R:306(HIS)  4400( CD2)  4.271    N/A
+     Good      1                          _:0(UNK)     3( N  )   R:306(HIS)  4408( HD2)  3.568    N/A
+     Good      1                          _:0(UNK)     3( N  )   R:309(ASN)  4453( ND2)  3.693    N/A
+     Good      1                          _:0(UNK)     3( N  )   R:309(ASN)  4459(HD22)  3.404    N/A
+     Good      1                          _:0(UNK)     3( N  )   R:309(ASN)  4460(HD21)  3.311    N/A
+     Good      1                          _:0(UNK)     3( N  )   R:310(GLU)  4469( OE2)  3.348    N/A
+     Good      1                          _:0(UNK)     4( O  )   R:131(GLY)  1435( C  )  4.105    N/A
+     Good      1                          _:0(UNK)     4( O  )   R:132(THR)  1445( CG2)  3.561    N/A
+     Good      1                          _:0(UNK)     4( O  )   R:132(THR)  1451(HG22)  2.973    N/A
+     Good      1                          _:0(UNK)     4( O  )   R:132(THR)  1452(HG23)  3.131    N/A
+     Good      1                          _:0(UNK)     4( O  )   R:208(ARG)  2735(HH22)  3.250    N/A
+     Good      1                          _:0(UNK)     5( C  )   R:128(LYS)  1385( CD )  4.206    N/A
+     Good      1                          _:0(UNK)     5( C  )   R:128(LYS)  1394( HD3)  3.539    N/A
+     Good      1                          _:0(UNK)     5( C  )   R:131(GLY)  1438( HA3)  3.716    N/A
+     Good      1                          _:0(UNK)     5( C  )   R:132(THR)  1445( CG2)  3.797    N/A
+     Good      1                          _:0(UNK)     5( C  )   R:132(THR)  1451(HG22)  3.538    N/A
+     Good      1                          _:0(UNK)     5( C  )   R:132(THR)  1452(HG23)  3.046    N/A
+     Good      1                          _:0(UNK)     5( C  )   R:208(ARG)  2721( CZ )  4.339    N/A
+     Good      1                          _:0(UNK)     5( C  )   R:208(ARG)  2722( NH1)  3.951    N/A
+     Good      1                          _:0(UNK)     5( C  )   R:208(ARG)  2723( NH2)  3.809    N/A
+     Good      1                          _:0(UNK)     5( C  )   R:208(ARG)  2733(HH12)  3.182    N/A
+     Good      1                          _:0(UNK)     5( C  )   R:208(ARG)  2735(HH22)  2.985    N/A
+     Good      1                          _:0(UNK)     6( O  )   R:135(TYR)  1500( CD2)  3.662    N/A
+     Good      1                          _:0(UNK)     6( O  )   R:135(TYR)  1502( CE2)  3.551    N/A
+     Good      1                          _:0(UNK)     6( O  )   R:135(TYR)  1503( CZ )  4.015    N/A
+     Good      1                          _:0(UNK)     7( C  )   R:131(GLY)  1434( CA )  3.791    N/A
+     Good      1                          _:0(UNK)     7( C  )   R:131(GLY)  1435( C  )  3.511    N/A
+     Good      1                          _:0(UNK)     7( C  )   R:131(GLY)  1436( O  )  3.699    N/A
+     Good      1                          _:0(UNK)     7( C  )   R:131(GLY)  1438( HA3)  3.308    N/A
+     Good      1                          _:0(UNK)     7( C  )   R:132(THR)  1440( N  )  3.866    N/A
+     Good      1                          _:0(UNK)     7( C  )   R:135(TYR)  1500( CD2)  3.938    N/A
+     Good      1                          _:0(UNK)     7( C  )   R:135(TYR)  1502( CE2)  4.204    N/A
+     Good      1                          _:0(UNK)     7( C  )   R:135(TYR)  1510( HD2)  3.294    N/A
+     Good      1                          _:0(UNK)     7( C  )   R:208(ARG)  2735(HH22)  3.452    N/A
+     Good      1                          _:0(UNK)     8( O  )   R:220(ASN)  2910( CG )  4.072    N/A
+     Good      1                          _:0(UNK)     8( O  )   R:220(ASN)  2912( OD1)  3.156    N/A
+     Good      1                          _:0(UNK)     8( O  )   R:220(ASN)  2916( HB2)  3.435    N/A
+     Good      1                          _:0(UNK)     9( C  )   R:135(TYR)  1500( CD2)  4.129    N/A
+     Good      1                          _:0(UNK)     9( C  )   R:135(TYR)  1502( CE2)  3.887    N/A
+     Good      1                          _:0(UNK)     9( C  )   R:135(TYR)  1512( HE2)  3.369    N/A
+     Good      1                          _:0(UNK)     9( C  )   R:208(ARG)  2723( NH2)  3.637    N/A
+     Good      1                          _:0(UNK)     9( C  )   R:208(ARG)  2735(HH22)  2.709    N/A
+     Good      1                          _:0(UNK)    10( O  )   R:132(THR)  1441( CA )  3.902    N/A
+     Good      1                          _:0(UNK)    10( O  )   R:132(THR)  1444( CB )  3.874    N/A
+     Good      1                          _:0(UNK)    10( O  )   R:132(THR)  1445( CG2)  3.764    N/A
+     Good      1                          _:0(UNK)    10( O  )   R:132(THR)  1448( HA )  3.040    N/A
+     Good      1                          _:0(UNK)    10( O  )   R:132(THR)  1449( HB )  3.423    N/A
+     Good      1                          _:0(UNK)    10( O  )   R:132(THR)  1451(HG22)  2.897    N/A
+     Good      1                          _:0(UNK)    11( C  )   R:135(TYR)  1502( CE2)  4.275    N/A
+     Good      1                          _:0(UNK)    11( C  )   R:208(ARG)  2723( NH2)  3.489    N/A
+     Good      1                          _:0(UNK)    11( C  )   R:208(ARG)  2735(HH22)  2.776    N/A
+     Good      1                          _:0(UNK)    11( C  )   R:208(ARG)  2736(HH21)  3.460    N/A
+     Good      1                          _:0(UNK)    12( O  )   R:219(PHE)  2894( CE2)  3.634    N/A
+     Good      1                          _:0(UNK)    12( O  )   R:219(PHE)  2903( HE2)  2.569    N/A
+     Good      1                          _:0(UNK)    12( O  )   R:223(LEU)  2963( CG )  4.111    N/A
+     Good      1                          _:0(UNK)    12( O  )   R:223(LEU)  2964( CD1)  3.641    N/A
+     Good      1                          _:0(UNK)    12( O  )   R:223(LEU)  2965( CD2)  3.582    N/A
+     Good      1                          _:0(UNK)    12( O  )   R:223(LEU)  2971(HD11)  2.727    N/A
+     Good      1                          _:0(UNK)    12( O  )   R:223(LEU)  2974(HD21)  2.577    N/A
+     Good      1                          _:0(UNK)    13( C  )   R:135(TYR)  1500( CD2)  4.470    N/A
+     Good      1                          _:0(UNK)    13( C  )   R:135(TYR)  1502( CE2)  4.427    N/A
+     Good      1                          _:0(UNK)    13( C  )   R:220(ASN)  2910( CG )  4.425    N/A
+     Good      1                          _:0(UNK)    13( C  )   R:220(ASN)  2912( OD1)  3.436    N/A
+     Good      1                          _:0(UNK)    14( O  )   R:208(ARG)  2721( CZ )  3.446    N/A
+     Good      1                          _:0(UNK)    14( O  )   R:208(ARG)  2722( NH1)  3.464    N/A
+     Good      1                          _:0(UNK)    14( O  )   R:208(ARG)  2723( NH2)  2.735    N/A
+     Good      1                          _:0(UNK)    14( O  )   R:208(ARG)  2733(HH12)  2.829    N/A
+     Good      1                          _:0(UNK)    14( O  )   R:208(ARG)  2736(HH21)  3.289    N/A
+     Good      1                          _:0(UNK)    15( C  )   R:135(TYR)  1498( CG )  3.855    N/A
+     Good      1                          _:0(UNK)    15( C  )   R:135(TYR)  1499( CD1)  3.746    N/A
+     Good      1                          _:0(UNK)    15( C  )   R:135(TYR)  1500( CD2)  4.097    N/A
+     Good      1                          _:0(UNK)    15( C  )   R:135(TYR)  1501( CE1)  3.890    N/A
+     Good      1                          _:0(UNK)    15( C  )   R:135(TYR)  1502( CE2)  4.269    N/A
+     Good      1                          _:0(UNK)    15( C  )   R:135(TYR)  1503( CZ )  4.172    N/A
+     Good      1                          _:0(UNK)    15( C  )   R:220(ASN)  2910( CG )  4.028    N/A
+     Good      1                          _:0(UNK)    15( C  )   R:220(ASN)  2912( OD1)  3.259    N/A
+     Good      1                          _:0(UNK)    16( O  )   R:131(GLY)  1434( CA )  3.654    N/A
+     Good      1                          _:0(UNK)    16( O  )   R:131(GLY)  1438( HA3)  3.140    N/A
+     Good      1                          _:0(UNK)    16( O  )   R:131(GLY)  1439( HA2)  3.138    N/A
+     Good      1                          _:0(UNK)    16( O  )   R:205(PHE)  2656( CA )  4.065    N/A
+     Good      1                          _:0(UNK)    16( O  )   R:205(PHE)  2661( CD1)  3.273    N/A
+     Good      1                          _:0(UNK)    16( O  )   R:205(PHE)  2663( CE1)  3.757    N/A
+     Good      1                          _:0(UNK)    16( O  )   R:205(PHE)  2667( HA )  3.056    N/A
+     Good      1                          _:0(UNK)    16( O  )   R:205(PHE)  2670( HD1)  2.509    N/A
+     Good      1                          _:0(UNK)    16( O  )   R:205(PHE)  2672( HE1)  3.503    N/A
+     Good      1                          _:0(UNK)    17( C  )   R:135(TYR)  1497( CB )  3.643    N/A
+     Good      1                          _:0(UNK)    17( C  )   R:135(TYR)  1498( CG )  3.537    N/A
+     Good      1                          _:0(UNK)    17( C  )   R:135(TYR)  1499( CD1)  3.775    N/A
+     Good      1                          _:0(UNK)    17( C  )   R:135(TYR)  1500( CD2)  4.013    N/A
+     Good      1                          _:0(UNK)    17( C  )   R:135(TYR)  1501( CE1)  4.425    N/A
+     Good      1                          _:0(UNK)    17( C  )   R:135(TYR)  1507( HB3)  3.096    N/A
+     Good      1                          _:0(UNK)    17( C  )   R:135(TYR)  1508( HB2)  3.612    N/A
+     Good      1                          _:0(UNK)    18( O  )   R:205(PHE)  2655( N  )  3.523    N/A
+     Good      1                          _:0(UNK)    18( O  )   R:205(PHE)  2656( CA )  3.472    N/A
+     Good      1                          _:0(UNK)    18( O  )   R:205(PHE)  2657( C  )  3.943    N/A
+     Good      1                          _:0(UNK)    18( O  )   R:205(PHE)  2666( H  )  2.976    N/A
+     Good      1                          _:0(UNK)    18( O  )   R:205(PHE)  2667( HA )  2.662    N/A
+     Good      1                          _:0(UNK)    18( O  )   R:208(ARG)  2721( CZ )  3.382    N/A
+     Good      1                          _:0(UNK)    18( O  )   R:208(ARG)  2722( NH1)  2.860    N/A
+     Good      1                          _:0(UNK)    18( O  )   R:208(ARG)  2723( NH2)  3.648    N/A
+     Good      1                          _:0(UNK)    18( O  )   R:208(ARG)  2733(HH12)  2.449    N/A
+     Good      1                          _:0(UNK)    18( O  )   R:208(ARG)  2734(HH11)  3.131    N/A
+     Good      1                          _:0(UNK)    18( O  )   R:208(ARG)  2735(HH22)  3.345    N/A
+     Good      1                          _:0(UNK)    19( C  )   R:223(LEU)  2964( CD1)  4.268    N/A
+     Good      1                          _:0(UNK)    19( C  )   R:223(LEU)  2972(HD12)  3.702    N/A
+     Good      1                          _:0(UNK)    20( O  )   R:205(PHE)  2656( CA )  3.860    N/A
+     Good      1                          _:0(UNK)    20( O  )   R:205(PHE)  2657( C  )  4.073    N/A
+     Good      1                          _:0(UNK)    20( O  )   R:205(PHE)  2667( HA )  2.857    N/A
+     Good      1                          _:0(UNK)    20( O  )   R:205(PHE)  2670( HD1)  3.413    N/A
+     Good      1                          _:0(UNK)    21( C  )   R:216(GLU)  2844( O  )  3.868    N/A
+     Good      1                          _:0(UNK)    21( C  )   R:219(PHE)  2892( CD2)  4.414    N/A
+     Good      1                          _:0(UNK)    21( C  )   R:219(PHE)  2901( HD2)  3.385    N/A
+     Good      1                          _:0(UNK)    21( C  )   R:220(ASN)  2905( N  )  4.146    N/A
+     Good      1                          _:0(UNK)    21( C  )   R:220(ASN)  2906( CA )  4.183    N/A
+     Good      1                          _:0(UNK)    21( C  )   R:220(ASN)  2909( CB )  4.194    N/A
+     Good      1                          _:0(UNK)    21( C  )   R:220(ASN)  2914( HA )  3.642    N/A
+     Good      1                          _:0(UNK)    21( C  )   R:220(ASN)  2916( HB2)  3.446    N/A
+     Good      1                          _:0(UNK)    21( C  )   R:223(LEU)  2964( CD1)  3.931    N/A
+     Good      1                          _:0(UNK)    21( C  )   R:223(LEU)  2972(HD12)  3.094    N/A
+     Good      1                          _:0(UNK)    22( O  )   R:135(TYR)  1503( CZ )  4.005    N/A
+     Good      1                          _:0(UNK)    22( O  )   R:135(TYR)  1504( OH )  3.146    N/A
+     Good      1                          _:0(UNK)    22( O  )   R:135(TYR)  1513( HH )  2.614    N/A
+     Good      1                          _:0(UNK)    22( O  )   R:286(ARG)  4061( CZ )  3.550    N/A
+     Good      1                          _:0(UNK)    22( O  )   R:286(ARG)  4062( NH1)  3.166    N/A
+     Good      1                          _:0(UNK)    22( O  )   R:286(ARG)  4063( NH2)  3.002    N/A
+     Good      1                          _:0(UNK)    22( O  )   R:289(TYR)  4125( CE2)  4.184    N/A
+     Good      1                          _:0(UNK)    22( O  )   R:309(ASN)  4453( ND2)  3.837    N/A
+     Good      1                          _:0(UNK)    22( O  )   R:309(ASN)  4459(HD22)  2.996    N/A
+     Good      1                          _:0(UNK)    23( C  )   R:216(GLU)  2842( CA )  4.216    N/A
+     Good      1                          _:0(UNK)    23( C  )   R:216(GLU)  2843( C  )  4.236    N/A
+     Good      1                          _:0(UNK)    23( C  )   R:216(GLU)  2844( O  )  3.400    N/A
+     Good      1                          _:0(UNK)    23( C  )   R:216(GLU)  2851( HA )  3.405    N/A
+     Good      1                          _:0(UNK)    23( C  )   R:219(PHE)  2887( C  )  4.075    N/A
+     Good      1                          _:0(UNK)    23( C  )   R:219(PHE)  2889( CB )  3.866    N/A
+     Good      1                          _:0(UNK)    23( C  )   R:219(PHE)  2890( CG )  4.108    N/A
+     Good      1                          _:0(UNK)    23( C  )   R:219(PHE)  2892( CD2)  3.512    N/A
+     Good      1                          _:0(UNK)    23( C  )   R:219(PHE)  2898( HB3)  2.966    N/A
+     Good      1                          _:0(UNK)    23( C  )   R:219(PHE)  2901( HD2)  2.628    N/A
+     Good      1                          _:0(UNK)    23( C  )   R:220(ASN)  2905( N  )  3.905    N/A
+     Good      1                          _:0(UNK)    23( C  )   R:220(ASN)  2906( CA )  4.427    N/A
+     Good      1                          _:0(UNK)    23( C  )   R:223(LEU)  2964( CD1)  4.342    N/A
+     Good      1                          _:0(UNK)    23( C  )   R:223(LEU)  2972(HD12)  3.536    N/A
+     Good      1                          _:0(UNK)    24( O  )   R:135(TYR)  1502( CE2)  3.835    N/A
+     Good      1                          _:0(UNK)    24( O  )   R:135(TYR)  1503( CZ )  3.684    N/A
+     Good      1                          _:0(UNK)    24( O  )   R:135(TYR)  1512( HE2)  3.201    N/A
+     Good      1                          _:0(UNK)    24( O  )   R:286(ARG)  4063( NH2)  3.846    N/A
+     Good      1                          _:0(UNK)    24( O  )   R:286(ARG)  4075(HH22)  2.908    N/A
+     Good      1                          _:0(UNK)    24( O  )   R:309(ASN)  4453( ND2)  3.301    N/A
+     Good      1                          _:0(UNK)    24( O  )   R:309(ASN)  4459(HD22)  2.396    N/A
+     Good      1                          _:0(UNK)    24( O  )   R:313(LEU)  4518( CD1)  3.544    N/A
+     Good      1                          _:0(UNK)    24( O  )   R:313(LEU)  4525(HD11)  2.523    N/A
+     Good      1                          _:0(UNK)    25( C  )   R:189(MET)  2411( CG )  4.187    N/A
+     Good      1                          _:0(UNK)    25( C  )   R:189(MET)  2413( CE )  3.973    N/A
+     Good      1                          _:0(UNK)    25( C  )   R:189(MET)  2418( HG3)  3.216    N/A
+     Good      1                          _:0(UNK)    25( C  )   R:189(MET)  2421( HE2)  2.952    N/A
+     Good      1                          _:0(UNK)    25( C  )   R:216(GLU)  2851( HA )  3.581    N/A
+     Good      1                          _:0(UNK)    25( C  )   R:219(PHE)  2889( CB )  4.230    N/A
+     Good      1                          _:0(UNK)    25( C  )   R:219(PHE)  2890( CG )  4.171    N/A
+     Good      1                          _:0(UNK)    25( C  )   R:219(PHE)  2892( CD2)  3.545    N/A
+     Good      1                          _:0(UNK)    25( C  )   R:219(PHE)  2894( CE2)  4.295    N/A
+     Good      1                          _:0(UNK)    25( C  )   R:219(PHE)  2898( HB3)  3.374    N/A
+     Good      1                          _:0(UNK)    25( C  )   R:219(PHE)  2901( HD2)  2.942    N/A
+     Good      1                          _:0(UNK)    26( C  )   R:189(MET)  2410( CB )  4.365    N/A
+     Good      1                          _:0(UNK)    26( C  )   R:189(MET)  2411( CG )  4.148    N/A
+     Good      1                          _:0(UNK)    26( C  )   R:189(MET)  2418( HG3)  3.188    N/A
+     Good      1                          _:0(UNK)    26( C  )   R:189(MET)  2421( HE2)  3.691    N/A
+     Good      1                          _:0(UNK)    27( C  )   R:132(THR)  1451(HG22)  3.747    N/A
+     Good      1                          _:0(UNK)    28( C  )   R:132(THR)  1441( CA )  3.962    N/A
+     Good      1                          _:0(UNK)    28( C  )   R:132(THR)  1442( C  )  4.187    N/A
+     Good      1                          _:0(UNK)    28( C  )   R:132(THR)  1443( O  )  3.477    N/A
+     Good      1                          _:0(UNK)    28( C  )   R:132(THR)  1444( CB )  4.226    N/A
+     Good      1                          _:0(UNK)    28( C  )   R:132(THR)  1448( HA )  3.133    N/A
+     Good      1                          _:0(UNK)    28( C  )   R:132(THR)  1449( HB )  3.633    N/A
+     Good      1                          _:0(UNK)    28( C  )   R:135(TYR)  1495( C  )  4.231    N/A
+     Good      1                          _:0(UNK)    28( C  )   R:135(TYR)  1497( CB )  3.453    N/A
+     Good      1                          _:0(UNK)    28( C  )   R:135(TYR)  1507( HB3)  2.995    N/A
+     Good      1                          _:0(UNK)    28( C  )   R:135(TYR)  1508( HB2)  2.897    N/A
+     Good      1                          _:0(UNK)    28( C  )   R:136(MET)  1514( N  )  3.883    N/A
+     Good      1                          _:0(UNK)    28( C  )   R:136(MET)  1524( HB3)  3.689    N/A
+     Good      1                          _:0(UNK)    29( C  )   R:132(THR)  1443( O  )  4.012    N/A
+     Good      1                          _:0(UNK)    29( C  )   R:136(MET)  1514( N  )  4.013    N/A
+     Good      1                          _:0(UNK)    29( C  )   R:136(MET)  1515( CA )  4.113    N/A
+     Good      1                          _:0(UNK)    29( C  )   R:136(MET)  1518( CB )  3.952    N/A
+     Good      1                          _:0(UNK)    29( C  )   R:136(MET)  1523( HA )  3.695    N/A
+     Good      1                          _:0(UNK)    29( C  )   R:136(MET)  1524( HB3)  3.055    N/A
+     Good      1                          _:0(UNK)    30( C  )   R:132(THR)  1443( O  )  3.895    N/A
+     Good      1                          _:0(UNK)    30( C  )   R:132(THR)  1449( HB )  3.599    N/A
+     Good      1                          _:0(UNK)    30( C  )   R:136(MET)  1515( CA )  4.324    N/A
+     Good      1                          _:0(UNK)    30( C  )   R:136(MET)  1518( CB )  3.643    N/A
+     Good      1                          _:0(UNK)    30( C  )   R:136(MET)  1524( HB3)  2.633    N/A
+     Good      1                          _:0(UNK)    30( C  )   R:185(GLY)  2348( C  )  4.413    N/A
+     Good      1                          _:0(UNK)    30( C  )   R:186(PHE)  2354( CA )  4.078    N/A
+     Good      1                          _:0(UNK)    30( C  )   R:186(PHE)  2357( CB )  4.416    N/A
+     Good      1                          _:0(UNK)    30( C  )   R:186(PHE)  2365( HA )  3.255    N/A
+     Good      1                          _:0(UNK)    30( C  )   R:186(PHE)  2367( HB2)  3.705    N/A
+     Good      1                          _:0(UNK)    31( C  )   R:136(MET)  1518( CB )  3.730    N/A
+     Good      1                          _:0(UNK)    31( C  )   R:136(MET)  1524( HB3)  2.948    N/A
+     Good      1                          _:0(UNK)    31( C  )   R:136(MET)  1525( HB2)  3.487    N/A
+     Good      1                          _:0(UNK)    31( C  )   R:182(ALA)  2313( O  )  3.489    N/A
+     Good      1                          _:0(UNK)    31( C  )   R:185(GLY)  2347( CA )  4.204    N/A
+     Good      1                          _:0(UNK)    31( C  )   R:185(GLY)  2348( C  )  3.584    N/A
+     Good      1                          _:0(UNK)    31( C  )   R:185(GLY)  2349( O  )  3.888    N/A
+     Good      1                          _:0(UNK)    31( C  )   R:185(GLY)  2351( HA3)  3.646    N/A
+     Good      1                          _:0(UNK)    31( C  )   R:186(PHE)  2353( N  )  3.451    N/A
+     Good      1                          _:0(UNK)    31( C  )   R:186(PHE)  2354( CA )  3.717    N/A
+     Good      1                          _:0(UNK)    31( C  )   R:186(PHE)  2357( CB )  4.056    N/A
+     Good      1                          _:0(UNK)    31( C  )   R:186(PHE)  2365( HA )  3.203    N/A
+     Good      1                          _:0(UNK)    31( C  )   R:186(PHE)  2367( HB2)  3.321    N/A
+     Good      1                          _:0(UNK)    32( C  )   R:136(MET)  1518( CB )  4.161    N/A
+     Good      1                          _:0(UNK)    32( C  )   R:136(MET)  1524( HB3)  3.627    N/A
+     Good      1                          _:0(UNK)    32( C  )   R:136(MET)  1525( HB2)  3.702    N/A
+     Good      1                          _:0(UNK)    32( C  )   R:182(ALA)  2311( CA )  4.364    N/A
+     Good      1                          _:0(UNK)    32( C  )   R:182(ALA)  2313( O  )  3.809    N/A
+     Good      1                          _:0(UNK)    32( C  )   R:182(ALA)  2316( HA )  3.437    N/A
+     Good      1                          _:0(UNK)    32( C  )   R:185(GLY)  2347( CA )  4.340    N/A
+     Good      1                          _:0(UNK)    32( C  )   R:185(GLY)  2348( C  )  4.200    N/A
+     Good      1                          _:0(UNK)    32( C  )   R:185(GLY)  2351( HA3)  3.486    N/A
+     Good      1                          _:0(UNK)    33( C  )   R:136(MET)  1518( CB )  4.438    N/A
+     Good      1                          _:0(UNK)    33( C  )   R:136(MET)  1523( HA )  3.653    N/A
+     Good      1                          _:0(UNK)    33( C  )   R:219(PHE)  2894( CE2)  4.097    N/A
+     Good      1                          _:0(UNK)    33( C  )   R:219(PHE)  2903( HE2)  3.082    N/A
+     Good      1                          _:0(UNK)    33( C  )   R:223(LEU)  2964( CD1)  4.237    N/A
+     Good      1                          _:0(UNK)    33( C  )   R:223(LEU)  2971(HD11)  3.243    N/A
+     Good      1                          _:0(UNK)    34( C  )   R:219(PHE)  2903( HE2)  3.532    N/A
+     Good      1                          _:0(UNK)    34( C  )   R:223(LEU)  2965( CD2)  3.805    N/A
+     Good      1                          _:0(UNK)    34( C  )   R:223(LEU)  2974(HD21)  2.761    N/A
+     Good      1                          _:0(UNK)    35( C  )   R:181(LEU)  2298( CD2)  4.090    N/A
+     Good      1                          _:0(UNK)    35( C  )   R:181(LEU)  2309(HD23)  3.585    N/A
+     Good      1                          _:0(UNK)    35( C  )   R:219(PHE)  2894( CE2)  4.374    N/A
+     Good      1                          _:0(UNK)    35( C  )   R:219(PHE)  2895( CZ )  4.452    N/A
+     Good      1                          _:0(UNK)    35( C  )   R:219(PHE)  2903( HE2)  3.620    N/A
+     Good      1                          _:0(UNK)    35( C  )   R:219(PHE)  2904( HZ )  3.784    N/A
+     Good      1                          _:0(UNK)    35( C  )   R:223(LEU)  2965( CD2)  3.717    N/A
+     Good      1                          _:0(UNK)    35( C  )   R:223(LEU)  2974(HD21)  2.725    N/A
+     Good      1                          _:0(UNK)    36( C  )   R:143(ILE)  1639( CD1)  3.946    N/A
+     Good      1                          _:0(UNK)    36( C  )   R:143(ILE)  1648(HD11)  3.347    N/A
+     Good      1                          _:0(UNK)    36( C  )   R:143(ILE)  1650(HD13)  3.757    N/A
+     Good      1                          _:0(UNK)    36( C  )   R:181(LEU)  2298( CD2)  3.380    N/A
+     Good      1                          _:0(UNK)    36( C  )   R:181(LEU)  2307(HD21)  3.402    N/A
+     Good      1                          _:0(UNK)    36( C  )   R:181(LEU)  2308(HD22)  2.965    N/A
+     Good      1                          _:0(UNK)    36( C  )   R:181(LEU)  2309(HD23)  3.101    N/A
+     Good      1                          _:0(UNK)    36( C  )   R:223(LEU)  2974(HD21)  3.748    N/A
+     Good      1                          _:0(UNK)    37( C  )   R:143(ILE)  1639( CD1)  3.310    N/A
+     Good      1                          _:0(UNK)    37( C  )   R:143(ILE)  1648(HD11)  3.016    N/A
+     Good      1                          _:0(UNK)    37( C  )   R:143(ILE)  1649(HD12)  3.054    N/A
+     Good      1                          _:0(UNK)    37( C  )   R:143(ILE)  1650(HD13)  3.180    N/A
+     Good      1                          _:0(UNK)    37( C  )   R:181(LEU)  2298( CD2)  3.861    N/A
+     Good      1                          _:0(UNK)    37( C  )   R:181(LEU)  2308(HD22)  3.251    N/A
+     Good      1                          _:0(UNK)    37( C  )   R:181(LEU)  2309(HD23)  3.493    N/A
+     Good      1                          _:0(UNK)    37( C  )   R:182(ALA)  2314( CB )  4.202    N/A
+     Good      1                          _:0(UNK)    37( C  )   R:182(ALA)  2318( HB2)  3.349    N/A
+     Good      1                          _:0(UNK)    38( C  )   R:139(TYR)  1564( C  )  4.461    N/A
+     Good      1                          _:0(UNK)    38( C  )   R:139(TYR)  1566( CB )  4.309    N/A
+     Good      1                          _:0(UNK)    38( C  )   R:139(TYR)  1576( HB3)  3.606    N/A
+     Good      1                          _:0(UNK)    38( C  )   R:140(ILE)  1588( CG1)  4.164    N/A
+     Good      1                          _:0(UNK)    38( C  )   R:140(ILE)  1594(HG13)  3.251    N/A
+     Good      1                          _:0(UNK)    38( C  )   R:143(ILE)  1639( CD1)  3.900    N/A
+     Good      1                          _:0(UNK)    38( C  )   R:143(ILE)  1648(HD11)  3.619    N/A
+     Good      1                          _:0(UNK)    38( C  )   R:143(ILE)  1649(HD12)  3.311    N/A
+     Good      1                          _:0(UNK)    38( C  )   R:182(ALA)  2311( CA )  4.052    N/A
+     Good      1                          _:0(UNK)    38( C  )   R:182(ALA)  2314( CB )  3.537    N/A
+     Good      1                          _:0(UNK)    38( C  )   R:182(ALA)  2316( HA )  3.509    N/A
+     Good      1                          _:0(UNK)    38( C  )   R:182(ALA)  2317( HB1)  3.403    N/A
+     Good      1                          _:0(UNK)    38( C  )   R:182(ALA)  2318( HB2)  2.840    N/A
+     Good      1                          _:0(UNK)    39( C  )   R:136(MET)  1515( CA )  4.388    N/A
+     Good      1                          _:0(UNK)    39( C  )   R:136(MET)  1523( HA )  3.460    N/A
+     Good      1                          _:0(UNK)    39( C  )   R:139(TYR)  1566( CB )  3.958    N/A
+     Good      1                          _:0(UNK)    39( C  )   R:139(TYR)  1576( HB3)  3.434    N/A
+     Good      1                          _:0(UNK)    39( C  )   R:139(TYR)  1577( HB2)  3.389    N/A
+     Good      1                          _:0(UNK)    39( C  )   R:182(ALA)  2311( CA )  4.285    N/A
+     Good      1                          _:0(UNK)    39( C  )   R:182(ALA)  2314( CB )  4.023    N/A
+     Good      1                          _:0(UNK)    39( C  )   R:182(ALA)  2316( HA )  3.509    N/A
+     Good      1                          _:0(UNK)    39( C  )   R:182(ALA)  2317( HB1)  3.613    N/A
+     Good      1                          _:0(UNK)    39( C  )   R:182(ALA)  2318( HB2)  3.662    N/A
+     Good      1                          _:0(UNK)    40( C  )   R:136(MET)  1515( CA )  4.205    N/A
+     Good      1                          _:0(UNK)    40( C  )   R:136(MET)  1518( CB )  4.334    N/A
+     Good      1                          _:0(UNK)    40( C  )   R:136(MET)  1523( HA )  3.454    N/A
+     Good      1                          _:0(UNK)    40( C  )   R:136(MET)  1524( HB3)  3.690    N/A
+     Good      1                          _:0(UNK)    40( C  )   R:219(PHE)  2903( HE2)  3.646    N/A
+     Good      1                          _:0(UNK)    40( C  )   R:223(LEU)  2964( CD1)  3.875    N/A
+     Good      1                          _:0(UNK)    40( C  )   R:223(LEU)  2971(HD11)  3.010    N/A
+     Good      1                          _:0(UNK)    40( C  )   R:223(LEU)  2973(HD13)  3.787    N/A
+     Good      1                          _:0(UNK)    41( C  )   R:205(PHE)  2656( CA )  4.402    N/A
+     Good      1                          _:0(UNK)    41( C  )   R:205(PHE)  2657( C  )  4.108    N/A
+     Good      1                          _:0(UNK)    41( C  )   R:205(PHE)  2658( O  )  4.148    N/A
+     Good      1                          _:0(UNK)    41( C  )   R:205(PHE)  2667( HA )  3.584    N/A
+     Good      1                          _:0(UNK)    41( C  )   R:206(HIS)  2678( O  )  3.637    N/A
+     Good      1                          _:0(UNK)    42( C  )   R:289(TYR)  4126( CZ )  4.372    N/A
+     Good      1                          _:0(UNK)    42( C  )   R:289(TYR)  4127( OH )  3.545    N/A
+     Good      1                          _:0(UNK)    42( C  )   R:289(TYR)  4136( HH )  3.189    N/A
+     Good      1                          _:0(UNK)    42( C  )   R:309(ASN)  4453( ND2)  3.892    N/A
+     Good      1                          _:0(UNK)    42( C  )   R:309(ASN)  4459(HD22)  3.365    N/A
+     Good      1                          _:0(UNK)    43( C  )   R:135(TYR)  1502( CE2)  4.327    N/A
+     Good      1                          _:0(UNK)    43( C  )   R:135(TYR)  1503( CZ )  4.200    N/A
+     Good      1                          _:0(UNK)    43( C  )   R:135(TYR)  1504( OH )  3.261    N/A
+     Good      1                          _:0(UNK)    43( C  )   R:135(TYR)  1512( HE2)  3.702    N/A
+     Good      1                          _:0(UNK)    43( C  )   R:135(TYR)  1513( HH )  2.452    N/A
+     Good      1                          _:0(UNK)    43( C  )   R:286(ARG)  4062( NH1)  4.309    N/A
+     Good      1                          _:0(UNK)    43( C  )   R:286(ARG)  4063( NH2)  3.742    N/A
+     Good      1                          _:0(UNK)    43( C  )   R:286(ARG)  4073(HH12)  3.456    N/A
+     Good      1                          _:0(UNK)    43( C  )   R:286(ARG)  4075(HH22)  2.742    N/A
+     Good      1                          _:0(UNK)    43( C  )   R:309(ASN)  4452( CG )  4.454    N/A
+     Good      1                          _:0(UNK)    43( C  )   R:309(ASN)  4453( ND2)  3.424    N/A
+     Good      1                          _:0(UNK)    43( C  )   R:309(ASN)  4459(HD22)  2.589    N/A
+     Good      1                          _:0(UNK)    43( C  )   R:313(LEU)  4525(HD11)  3.617    N/A
+     Good      1                          _:0(UNK)    44(1HXT)   R:128(LYS)  1385( CD )  2.948    N/A
+     Good      1                          _:0(UNK)    44(1HXT)   R:128(LYS)  1386( CE )  3.602    N/A
+     Good      1                          _:0(UNK)    44(1HXT)   R:128(LYS)  1387( NZ )  3.126    N/A
+     Good      1                          _:0(UNK)    44(1HXT)   R:128(LYS)  1394( HD3)  2.835    N/A
+     Good      1                          _:0(UNK)    44(1HXT)   R:128(LYS)  1395( HD2)  2.225    N/A
+     Good      1                          _:0(UNK)    44(1HXT)   R:128(LYS)  1398( HZ1)  2.920    N/A
+     Good      1                          _:0(UNK)    44(1HXT)   R:128(LYS)  1400( HZ3)  2.604    N/A
+     Good      1                          _:0(UNK)    44(1HXT)   R:193(THR)  2485( CG2)  3.512    N/A
+     Good      1                          _:0(UNK)    44(1HXT)   R:193(THR)  2490(HG21)  2.435    N/A
+     Good      1                          _:0(UNK)    45(2HXT)   R:132(THR)  1445( CG2)  2.945    N/A
+     Good      1                          _:0(UNK)    45(2HXT)   R:132(THR)  1450(HG21)  2.950    N/A
+     Good      1                          _:0(UNK)    45(2HXT)   R:132(THR)  1451(HG22)  2.756    N/A
+     Good      1                          _:0(UNK)    45(2HXT)   R:132(THR)  1452(HG23)  2.542    N/A
+     Good      1                          _:0(UNK)    46(3HXT)   R:208(ARG)  2723( NH2)  3.496    N/A
+     Good      1                          _:0(UNK)    47(H__1)   R:309(ASN)  4453( ND2)  2.818    N/A
+     Good      1                          _:0(UNK)    47(H__1)   R:309(ASN)  4459(HD22)  2.704    N/A
+     Good      1                          _:0(UNK)    47(H__1)   R:309(ASN)  4460(HD21)  2.326    N/A
+     Good      1                          _:0(UNK)    47(H__1)   R:310(GLU)  4469( OE2)  2.795    N/A
+     Good      1                          _:0(UNK)    48(H__2)   R:205(PHE)  2657( C  )  3.478    N/A
+     Good      1                          _:0(UNK)    48(H__2)   R:205(PHE)  2658( O  )  2.823    N/A
+     Good      1                          _:0(UNK)    48(H__2)   R:310(GLU)  4469( OE2)  3.070    N/A
+     Good      1                          _:0(UNK)    49(1HXT)   R:208(ARG)  2721( CZ )  3.385    N/A
+     Good      1                          _:0(UNK)    49(1HXT)   R:208(ARG)  2722( NH1)  2.941    N/A
+     Good      1                          _:0(UNK)    49(1HXT)   R:208(ARG)  2723( NH2)  2.985    N/A
+     Good      1                          _:0(UNK)    49(1HXT)   R:208(ARG)  2733(HH12)  2.137    N/A
+     Good      1                          _:0(UNK)    49(1HXT)   R:208(ARG)  2735(HH22)  2.180    N/A
+     Good      1                          _:0(UNK)    50(2HXT)   R:128(LYS)  1389( HA )  2.794    N/A
+     Good      1                          _:0(UNK)    50(2HXT)   R:128(LYS)  1394( HD3)  3.094    N/A
+     Good      1                          _:0(UNK)    50(2HXT)   R:131(GLY)  1438( HA3)  2.941    N/A
+     Good      1                          _:0(UNK)    50(2HXT)   R:132(THR)  1445( CG2)  3.467    N/A
+     Good      1                          _:0(UNK)    50(2HXT)   R:132(THR)  1452(HG23)  2.517    N/A
+     Good      1                          _:0(UNK)    51(1HXT)   R:131(GLY)  1434( CA )  2.826    N/A
+     Good      1                          _:0(UNK)    51(1HXT)   R:131(GLY)  1435( C  )  2.882    N/A
+     Good      1                          _:0(UNK)    51(1HXT)   R:131(GLY)  1436( O  )  3.277    N/A
+     Good      1                          _:0(UNK)    51(1HXT)   R:131(GLY)  1438( HA3)  2.274    N/A
+     Good      1                          _:0(UNK)    51(1HXT)   R:131(GLY)  1439( HA2)  2.946    N/A
+     Good      1                          _:0(UNK)    51(1HXT)   R:132(THR)  1440( N  )  3.411    N/A
+     Good      1                          _:0(UNK)    52(2HXT)   R:131(GLY)  1435( C  )  3.183    N/A
+     Good      1                          _:0(UNK)    52(2HXT)   R:131(GLY)  1436( O  )  3.072    N/A
+     Good      1                          _:0(UNK)    52(2HXT)   R:132(THR)  1440( N  )  3.572    N/A
+     Good      1                          _:0(UNK)    52(2HXT)   R:135(TYR)  1500( CD2)  3.041    N/A
+     Good      1                          _:0(UNK)    52(2HXT)   R:135(TYR)  1502( CE2)  3.574    N/A
+     Good      1                          _:0(UNK)    52(2HXT)   R:135(TYR)  1510( HD2)  2.390    N/A
+     Good      1                          _:0(UNK)    53( HXT)   R:135(TYR)  1500( CD2)  3.478    N/A
+     Good      1                          _:0(UNK)    53( HXT)   R:135(TYR)  1502( CE2)  2.986    N/A
+     Good      1                          _:0(UNK)    53( HXT)   R:135(TYR)  1512( HE2)  2.336    N/A
+     Good      1                          _:0(UNK)    54(1HXT)   R:208(ARG)  2723( NH2)  3.322    N/A
+     Good      1                          _:0(UNK)    54(1HXT)   R:208(ARG)  2735(HH22)  2.853    N/A
+     Good      1                          _:0(UNK)    55(2HXT)   R:208(ARG)  2723( NH2)  3.039    N/A
+     Good      1                          _:0(UNK)    55(2HXT)   R:208(ARG)  2735(HH22)  2.397    N/A
+     Good      1                          _:0(UNK)    55(2HXT)   R:210(LYS)  2769( HZ2)  3.046    N/A
+     Good      1                          _:0(UNK)    56(1HXT)   R:220(ASN)  2909( CB )  3.633    N/A
+     Good      1                          _:0(UNK)    56(1HXT)   R:220(ASN)  2910( CG )  3.036    N/A
+     Good      1                          _:0(UNK)    56(1HXT)   R:220(ASN)  2912( OD1)  2.462    N/A
+     Good      1                          _:0(UNK)    57(2HXT)   R:135(TYR)  1498( CG )  3.164    N/A
+     Good      1                          _:0(UNK)    57(2HXT)   R:135(TYR)  1499( CD1)  2.860    N/A
+     Good      1                          _:0(UNK)    57(2HXT)   R:135(TYR)  1500( CD2)  3.408    N/A
+     Good      1                          _:0(UNK)    57(2HXT)   R:135(TYR)  1501( CE1)  2.821    N/A
+     Good      1                          _:0(UNK)    57(2HXT)   R:135(TYR)  1502( CE2)  3.415    N/A
+     Good      1                          _:0(UNK)    57(2HXT)   R:135(TYR)  1503( CZ )  3.134    N/A
+     Good      1                          _:0(UNK)    57(2HXT)   R:220(ASN)  2912( OD1)  3.489    N/A
+     Good      1                          _:0(UNK)    58(1HXT)   R:135(TYR)  1497( CB )  3.190    N/A
+     Good      1                          _:0(UNK)    58(1HXT)   R:135(TYR)  1498( CG )  3.252    N/A
+     Good      1                          _:0(UNK)    58(1HXT)   R:135(TYR)  1499( CD1)  3.282    N/A
+     Good      1                          _:0(UNK)    58(1HXT)   R:135(TYR)  1507( HB3)  2.404    N/A
+     Good      1                          _:0(UNK)    59(2HXT)   R:135(TYR)  1497( CB )  3.065    N/A
+     Good      1                          _:0(UNK)    59(2HXT)   R:135(TYR)  1498( CG )  3.016    N/A
+     Good      1                          _:0(UNK)    59(2HXT)   R:135(TYR)  1499( CD1)  3.644    N/A
+     Good      1                          _:0(UNK)    59(2HXT)   R:135(TYR)  1500( CD2)  3.278    N/A
+     Good      1                          _:0(UNK)    59(2HXT)   R:135(TYR)  1507( HB3)  2.807    N/A
+     Good      1                          _:0(UNK)    59(2HXT)   R:135(TYR)  1508( HB2)  2.801    N/A
+     Good      1                          _:0(UNK)    60( HXT)   R:220(ASN)  2905( N  )  3.534    N/A
+     Good      1                          _:0(UNK)    60( HXT)   R:220(ASN)  2906( CA )  3.298    N/A
+     Good      1                          _:0(UNK)    60( HXT)   R:220(ASN)  2909( CB )  3.188    N/A
+     Good      1                          _:0(UNK)    60( HXT)   R:220(ASN)  2910( CG )  3.530    N/A
+     Good      1                          _:0(UNK)    60( HXT)   R:220(ASN)  2912( OD1)  3.484    N/A
+     Good      1                          _:0(UNK)    60( HXT)   R:220(ASN)  2914( HA )  2.788    N/A
+     Good      1                          _:0(UNK)    60( HXT)   R:220(ASN)  2916( HB2)  2.528    N/A
+     Good      1                          _:0(UNK)    60( HXT)   R:223(LEU)  2972(HD12)  2.891    N/A
+     Good      1                          _:0(UNK)    61( HXT)   R:216(GLU)  2842( CA )  3.674    N/A
+     Good      1                          _:0(UNK)    61( HXT)   R:216(GLU)  2843( C  )  3.506    N/A
+     Good      1                          _:0(UNK)    61( HXT)   R:216(GLU)  2844( O  )  2.641    N/A
+     Good      1                          _:0(UNK)    61( HXT)   R:216(GLU)  2851( HA )  2.916    N/A
+     Good      1                          _:0(UNK)    61( HXT)   R:219(PHE)  2886( CA )  3.597    N/A
+     Good      1                          _:0(UNK)    61( HXT)   R:219(PHE)  2887( C  )  3.210    N/A
+     Good      1                          _:0(UNK)    61( HXT)   R:219(PHE)  2889( CB )  3.011    N/A
+     Good      1                          _:0(UNK)    61( HXT)   R:219(PHE)  2890( CG )  3.564    N/A
+     Good      1                          _:0(UNK)    61( HXT)   R:219(PHE)  2892( CD2)  3.282    N/A
+     Good      1                          _:0(UNK)    61( HXT)   R:219(PHE)  2901( HD2)  2.482    N/A
+     Good      1                          _:0(UNK)    61( HXT)   R:220(ASN)  2905( N  )  3.040    N/A
+     Good      1                          _:0(UNK)    62( HXT)   R:189(MET)  2411( CG )  3.460    N/A
+     Good      1                          _:0(UNK)    62( HXT)   R:189(MET)  2412( SD )  3.702    N/A
+     Good      1                          _:0(UNK)    62( HXT)   R:189(MET)  2413( CE )  3.155    N/A
+     Good      1                          _:0(UNK)    62( HXT)   R:189(MET)  2418( HG3)  2.556    N/A
+     Good      1                          _:0(UNK)    62( HXT)   R:189(MET)  2421( HE2)  2.166    N/A
+     Good      1                          _:0(UNK)    62( HXT)   R:219(PHE)  2889( CB )  3.759    N/A
+     Good      1                          _:0(UNK)    62( HXT)   R:219(PHE)  2890( CG )  3.664    N/A
+     Good      1                          _:0(UNK)    62( HXT)   R:219(PHE)  2892( CD2)  3.314    N/A
+     Good      1                          _:0(UNK)    62( HXT)   R:219(PHE)  2898( HB3)  2.972    N/A
+     Good      1                          _:0(UNK)    62( HXT)   R:219(PHE)  2901( HD2)  3.019    N/A
+     Good      1                          _:0(UNK)    63( HXT)   R:189(MET)  2410( CB )  3.434    N/A
+     Good      1                          _:0(UNK)    63( HXT)   R:189(MET)  2411( CG )  3.365    N/A
+     Good      1                          _:0(UNK)    63( HXT)   R:189(MET)  2416( HB3)  3.110    N/A
+     Good      1                          _:0(UNK)    63( HXT)   R:189(MET)  2418( HG3)  2.486    N/A
+     Good      1                          _:0(UNK)    64(1HXT)   R:135(TYR)  1495( C  )  3.698    N/A
+     Good      1                          _:0(UNK)    64(1HXT)   R:135(TYR)  1497( CB )  2.747    N/A
+     Good      1                          _:0(UNK)    64(1HXT)   R:135(TYR)  1498( CG )  3.723    N/A
+     Good      1                          _:0(UNK)    64(1HXT)   R:135(TYR)  1508( HB2)  2.496    N/A
+     Good      1                          _:0(UNK)    65(2HXT)   R:132(THR)  1441( CA )  3.089    N/A
+     Good      1                          _:0(UNK)    65(2HXT)   R:132(THR)  1442( C  )  3.132    N/A
+     Good      1                          _:0(UNK)    65(2HXT)   R:132(THR)  1443( O  )  2.416    N/A
+     Good      1                          _:0(UNK)    65(2HXT)   R:132(THR)  1444( CB )  3.568    N/A
+     Good      1                          _:0(UNK)    65(2HXT)   R:132(THR)  1448( HA )  2.362    N/A
+     Good      1                          _:0(UNK)    65(2HXT)   R:132(THR)  1449( HB )  3.057    N/A
+     Good      1                          _:0(UNK)    65(2HXT)   R:135(TYR)  1497( CB )  3.159    N/A
+     Good      1                          _:0(UNK)    65(2HXT)   R:135(TYR)  1507( HB3)  3.021    N/A
+     Good      1                          _:0(UNK)    65(2HXT)   R:135(TYR)  1508( HB2)  2.397    N/A
+     Good      1                          _:0(UNK)    65(2HXT)   R:136(MET)  1514( N  )  3.327    N/A
+     Good      1                          _:0(UNK)    65(2HXT)   R:136(MET)  1522( H  )  2.866    N/A
+     Good      1                          _:0(UNK)    66( HXT)   R:132(THR)  1443( O  )  3.343    N/A
+     Good      1                          _:0(UNK)    66( HXT)   R:132(THR)  1444( CB )  3.667    N/A
+     Good      1                          _:0(UNK)    66( HXT)   R:132(THR)  1449( HB )  2.607    N/A
+     Good      1                          _:0(UNK)    66( HXT)   R:136(MET)  1524( HB3)  2.779    N/A
+     Good      1                          _:0(UNK)    66( HXT)   R:186(PHE)  2354( CA )  3.593    N/A
+     Good      1                          _:0(UNK)    66( HXT)   R:186(PHE)  2365( HA )  2.661    N/A
+     Good      1                          _:0(UNK)    66( HXT)   R:186(PHE)  2368( HD1)  3.002    N/A
+     Good      1                          _:0(UNK)    67( HXT)   R:182(ALA)  2313( O  )  2.666    N/A
+     Good      1                          _:0(UNK)    67( HXT)   R:185(GLY)  2347( CA )  3.613    N/A
+     Good      1                          _:0(UNK)    67( HXT)   R:185(GLY)  2348( C  )  2.884    N/A
+     Good      1                          _:0(UNK)    67( HXT)   R:185(GLY)  2349( O  )  3.420    N/A
+     Good      1                          _:0(UNK)    67( HXT)   R:186(PHE)  2353( N  )  2.486    N/A
+     Good      1                          _:0(UNK)    67( HXT)   R:186(PHE)  2354( CA )  2.824    N/A
+     Good      1                          _:0(UNK)    67( HXT)   R:186(PHE)  2357( CB )  3.122    N/A
+     Good      1                          _:0(UNK)    67( HXT)   R:186(PHE)  2364( H  )  2.660    N/A
+     Good      1                          _:0(UNK)    67( HXT)   R:186(PHE)  2365( HA )  2.554    N/A
+     Good      1                          _:0(UNK)    67( HXT)   R:186(PHE)  2367( HB2)  2.477    N/A
+     Good      1                          _:0(UNK)    68( HXT)   R:182(ALA)  2311( CA )  3.536    N/A
+     Good      1                          _:0(UNK)    68( HXT)   R:182(ALA)  2313( O  )  3.363    N/A
+     Good      1                          _:0(UNK)    68( HXT)   R:182(ALA)  2316( HA )  2.531    N/A
+     Good      1                          _:0(UNK)    68( HXT)   R:185(GLY)  2351( HA3)  2.892    N/A
+     Good      1                          _:0(UNK)    69( HXT)   R:219(PHE)  2894( CE2)  3.543    N/A
+     Good      1                          _:0(UNK)    69( HXT)   R:219(PHE)  2895( CZ )  3.520    N/A
+     Good      1                          _:0(UNK)    69( HXT)   R:219(PHE)  2903( HE2)  2.960    N/A
+     Good      1                          _:0(UNK)    69( HXT)   R:219(PHE)  2904( HZ )  2.913    N/A
+     Good      1                          _:0(UNK)    69( HXT)   R:223(LEU)  2965( CD2)  3.455    N/A
+     Good      1                          _:0(UNK)    69( HXT)   R:223(LEU)  2974(HD21)  2.523    N/A
+     Good      1                          _:0(UNK)    70( HXT)   R:181(LEU)  2298( CD2)  2.970    N/A
+     Good      1                          _:0(UNK)    70( HXT)   R:181(LEU)  2307(HD21)  2.815    N/A
+     Good      1                          _:0(UNK)    70( HXT)   R:181(LEU)  2308(HD22)  2.462    N/A
+     Good      1                          _:0(UNK)    70( HXT)   R:181(LEU)  2309(HD23)  3.047    N/A
+     Good      1                          _:0(UNK)    71( HXT)   R:143(ILE)  1639( CD1)  2.879    N/A
+     Good      1                          _:0(UNK)    71( HXT)   R:143(ILE)  1648(HD11)  2.924    N/A
+     Good      1                          _:0(UNK)    71( HXT)   R:143(ILE)  1649(HD12)  2.644    N/A
+     Good      1                          _:0(UNK)    71( HXT)   R:143(ILE)  1650(HD13)  2.492    N/A
+     Good      1                          _:0(UNK)    71( HXT)   R:178(VAL)  2246(HG13)  2.983    N/A
+     Good      1                          _:0(UNK)    71( HXT)   R:181(LEU)  2308(HD22)  3.027    N/A
+     Good      1                          _:0(UNK)    72( HXT)   R:140(ILE)  1588( CG1)  3.096    N/A
+     Good      1                          _:0(UNK)    72( HXT)   R:140(ILE)  1594(HG13)  2.226    N/A
+     Good      1                          _:0(UNK)    72( HXT)   R:140(ILE)  1595(HG12)  3.000    N/A
+     Good      1                          _:0(UNK)    72( HXT)   R:182(ALA)  2314( CB )  3.158    N/A
+     Good      1                          _:0(UNK)    72( HXT)   R:182(ALA)  2317( HB1)  2.969    N/A
+     Good      1                          _:0(UNK)    72( HXT)   R:182(ALA)  2318( HB2)  2.399    N/A
+     Good      1                          _:0(UNK)    73( HXT)   R:136(MET)  1515( CA )  3.311    N/A
+     Good      1                          _:0(UNK)    73( HXT)   R:136(MET)  1517( O  )  3.423    N/A
+     Good      1                          _:0(UNK)    73( HXT)   R:136(MET)  1518( CB )  3.579    N/A
+     Good      1                          _:0(UNK)    73( HXT)   R:136(MET)  1523( HA )  2.400    N/A
+     Good      1                          _:0(UNK)    73( HXT)   R:136(MET)  1525( HB2)  2.980    N/A
+     Good      1                          _:0(UNK)    73( HXT)   R:139(TYR)  1566( CB )  3.761    N/A
+     Good      1                          _:0(UNK)    73( HXT)   R:139(TYR)  1577( HB2)  2.950    N/A
+     Good      1                          _:0(UNK)    74( HXT)   R:223(LEU)  2964( CD1)  3.002    N/A
+     Good      1                          _:0(UNK)    74( HXT)   R:223(LEU)  2971(HD11)  2.324    N/A
+     Good      1                          _:0(UNK)    74( HXT)   R:223(LEU)  2973(HD13)  2.773    N/A
+     Good      1                          _:0(UNK)    75(1HXT)   R:208(ARG)  2723( NH2)  3.533    N/A
+     Good      1                          _:0(UNK)    76(2HXT)   R:205(PHE)  2657( C  )  3.368    N/A
+     Good      1                          _:0(UNK)    76(2HXT)   R:206(HIS)  2675( N  )  3.547    N/A
+     Good      1                          _:0(UNK)    76(2HXT)   R:206(HIS)  2677( C  )  3.469    N/A
+     Good      1                          _:0(UNK)    76(2HXT)   R:206(HIS)  2678( O  )  2.592    N/A
+     Good      1                          _:0(UNK)    77( HXT)   R:289(TYR)  4126( CZ )  3.367    N/A
+     Good      1                          _:0(UNK)    77( HXT)   R:289(TYR)  4127( OH )  2.492    N/A
+     Good      1                          _:0(UNK)    77( HXT)   R:289(TYR)  4136( HH )  2.108    N/A
+
+Interactions grouped by receptor residue:
+    Type Residue        # of ligands # of contacts
+    Good R:128(LYS)            1       16
+    ligand title:                         interactions:  16
+    Good R:131(GLY)            1       17
+    ligand title:                         interactions:  17
+    Good R:132(THR)            1       43
+    ligand title:                         interactions:  43
+    Good R:135(TYR)            1       69
+    ligand title:                         interactions:  69
+    Good R:136(MET)            1       32
+    ligand title:                         interactions:  32
+    Good R:139(TYR)            1        8
+    ligand title:                         interactions:   8
+    Good R:140(ILE)            1        5
+    ligand title:                         interactions:   5
+    Good R:143(ILE)            1       14
+    ligand title:                         interactions:  14
+    Good R:178(VAL)            1        1
+    ligand title:                         interactions:   1
+    Good R:181(LEU)            1       14
+    ligand title:                         interactions:  14
+    Good R:182(ALA)            1       23
+    ligand title:                         interactions:  23
+    Good R:185(GLY)            1       12
+    ligand title:                         interactions:  12
+    Good R:186(PHE)            1       18
+    ligand title:                         interactions:  18
+    Good R:189(MET)            1       17
+    ligand title:                         interactions:  17
+    Good R:193(THR)            1        4
+    ligand title:                         interactions:   4
+    Good R:205(PHE)            1       30
+    ligand title:                         interactions:  30
+    Good R:206(HIS)            1        4
+    ligand title:                         interactions:   4
+    Good R:208(ARG)            1       42
+    ligand title:                         interactions:  42
+    Good R:210(LYS)            1        1
+    ligand title:                         interactions:   1
+    Good R:216(GLU)            1       10
+    ligand title:                         interactions:  10
+    Good R:219(PHE)            1       39
+    ligand title:                         interactions:  39
+    Good R:220(ASN)            1       26
+    ligand title:                         interactions:  26
+    Good R:223(LEU)            1       27
+    ligand title:                         interactions:  27
+    Good R:286(ARG)            1        9
+    ligand title:                         interactions:   9
+    Good R:289(TYR)            1        8
+    ligand title:                         interactions:   8
+    Good R:306(HIS)            1        2
+    ligand title:                         interactions:   2
+    Good R:309(ASN)            1       15
+    ligand title:                         interactions:  15
+    Good R:310(GLU)            1        3
+    ligand title:                         interactions:   3
+    Good R:313(LEU)            1        3
+    ligand title:                         interactions:   3
+Total Good Contacts interactions: 512
+
+========== Bad Contacts =============================================================================
+     Type Ligand Title                  LigResidue     LigAtom   RecResidue     RecAtom   Dist  Angle
+      Bad      1                          _:0(UNK)    22( O  )   R:286(ARG)  4073(HH12)  2.275    N/A
+      Bad      1                          _:0(UNK)    22( O  )   R:286(ARG)  4075(HH22)  2.049    N/A
+      Bad      1                          _:0(UNK)    24( O  )   R:135(TYR)  1504( OH )  2.678    N/A
+      Bad      1                          _:0(UNK)    61( HXT)   R:219(PHE)  2898( HB3)  2.083    N/A
+      Bad      1                          _:0(UNK)    64(1HXT)   R:135(TYR)  1507( HB3)  2.072    N/A
+
+Interactions grouped by receptor residue:
+    Type Residue        # of ligands # of contacts
+     Bad R:135(TYR)            1        2
+    ligand title:                         interactions:   2
+     Bad R:219(PHE)            1        1
+    ligand title:                         interactions:   1
+     Bad R:286(ARG)            1        2
+    ligand title:                         interactions:   2
+Total Bad Contacts interactions: 5
+
+========== Ugly Contacts ============================================================================
+     Type Ligand Title                  LigResidue     LigAtom   RecResidue     RecAtom   Dist  Angle
+     Ugly      1                          _:0(UNK)    14( O  )   R:208(ARG)  2735(HH22)  1.883    N/A
+     Ugly      1                          _:0(UNK)    24( O  )   R:135(TYR)  1513( HH )  1.771    N/A
+
+Interactions grouped by receptor residue:
+    Type Residue        # of ligands # of contacts
+    Ugly R:135(TYR)            1        1
+    ligand title:                         interactions:   1
+    Ugly R:208(ARG)            1        1
+    ligand title:                         interactions:   1
+Total Ugly Contacts interactions: 2
+
+========== Salt Bridges =============================================================================
+     Type Ligand Title                  LigResidue     LigAtom   RecResidue     RecAtom   Dist  Angle
+     Salt      1                          _:0(UNK)    18( O  )   R:208(ARG)  2722( NH1)  2.860    N/A
+     Salt      1                          _:0(UNK)    22( O  )   R:286(ARG)  4062( NH1)  3.166    N/A
+
+Interactions grouped by receptor residue:
+    Type Residue        # of ligands # of contacts
+    Salt R:208(ARG)            1        1
+    ligand title:                         interactions:   1
+    Salt R:286(ARG)            1        1
+    ligand title:                         interactions:   1
+Total Salt Bridges interactions: 2
+
+========== Hydrophobic ==============================================================================
+     Type Ligand Title                  LigResidue     LigAtom   RecResidue     RecAtom   Dist  Angle
+    HPhob      1                          _:0(UNK)     2( C  )   R:128(LYS)  1385( CD )  3.882    N/A
+    HPhob      1                          _:0(UNK)     2( C  )   R:132(THR)  1445( CG2)  3.798    N/A
+    HPhob      1                          _:0(UNK)    15( C  )   R:135(TYR)  1498( CG )  3.855    N/A
+    HPhob      1                          _:0(UNK)    15( C  )   R:135(TYR)  1499( CD1)  3.746    N/A
+    HPhob      1                          _:0(UNK)    15( C  )   R:135(TYR)  1500( CD2)  4.097    N/A
+    HPhob      1                          _:0(UNK)    15( C  )   R:135(TYR)  1501( CE1)  3.890    N/A
+    HPhob      1                          _:0(UNK)    17( C  )   R:135(TYR)  1497( CB )  3.643    N/A
+    HPhob      1                          _:0(UNK)    17( C  )   R:135(TYR)  1498( CG )  3.537    N/A
+    HPhob      1                          _:0(UNK)    17( C  )   R:135(TYR)  1499( CD1)  3.775    N/A
+    HPhob      1                          _:0(UNK)    17( C  )   R:135(TYR)  1500( CD2)  4.013    N/A
+    HPhob      1                          _:0(UNK)    21( C  )   R:223(LEU)  2964( CD1)  3.931    N/A
+    HPhob      1                          _:0(UNK)    23( C  )   R:219(PHE)  2889( CB )  3.866    N/A
+    HPhob      1                          _:0(UNK)    23( C  )   R:219(PHE)  2890( CG )  4.108    N/A
+    HPhob      1                          _:0(UNK)    23( C  )   R:219(PHE)  2892( CD2)  3.512    N/A
+    HPhob      1                          _:0(UNK)    25( C  )   R:189(MET)  2413( CE )  3.973    N/A
+    HPhob      1                          _:0(UNK)    25( C  )   R:219(PHE)  2892( CD2)  3.545    N/A
+    HPhob      1                          _:0(UNK)    29( C  )   R:136(MET)  1518( CB )  3.952    N/A
+    HPhob      1                          _:0(UNK)    30( C  )   R:136(MET)  1518( CB )  3.643    N/A
+    HPhob      1                          _:0(UNK)    31( C  )   R:136(MET)  1518( CB )  3.730    N/A
+    HPhob      1                          _:0(UNK)    31( C  )   R:186(PHE)  2357( CB )  4.056    N/A
+    HPhob      1                          _:0(UNK)    35( C  )   R:181(LEU)  2298( CD2)  4.090    N/A
+    HPhob      1                          _:0(UNK)    35( C  )   R:223(LEU)  2965( CD2)  3.717    N/A
+    HPhob      1                          _:0(UNK)    36( C  )   R:143(ILE)  1639( CD1)  3.946    N/A
+    HPhob      1                          _:0(UNK)    36( C  )   R:181(LEU)  2298( CD2)  3.380    N/A
+    HPhob      1                          _:0(UNK)    37( C  )   R:143(ILE)  1639( CD1)  3.310    N/A
+    HPhob      1                          _:0(UNK)    37( C  )   R:181(LEU)  2298( CD2)  3.861    N/A
+    HPhob      1                          _:0(UNK)    38( C  )   R:143(ILE)  1639( CD1)  3.900    N/A
+    HPhob      1                          _:0(UNK)    38( C  )   R:182(ALA)  2314( CB )  3.537    N/A
+    HPhob      1                          _:0(UNK)    39( C  )   R:139(TYR)  1566( CB )  3.958    N/A
+    HPhob      1                          _:0(UNK)    39( C  )   R:182(ALA)  2314( CB )  4.023    N/A
+    HPhob      1                          _:0(UNK)    40( C  )   R:223(LEU)  2964( CD1)  3.875    N/A
+
+Interactions grouped by receptor residue:
+    Type Residue        # of ligands # of contacts
+   HPhob R:128(LYS)            1        1
+    ligand title:                         interactions:   1
+   HPhob R:132(THR)            1        1
+    ligand title:                         interactions:   1
+   HPhob R:135(TYR)            1        8
+    ligand title:                         interactions:   8
+   HPhob R:136(MET)            1        3
+    ligand title:                         interactions:   3
+   HPhob R:139(TYR)            1        1
+    ligand title:                         interactions:   1
+   HPhob R:143(ILE)            1        3
+    ligand title:                         interactions:   3
+   HPhob R:181(LEU)            1        3
+    ligand title:                         interactions:   3
+   HPhob R:182(ALA)            1        2
+    ligand title:                         interactions:   2
+   HPhob R:186(PHE)            1        1
+    ligand title:                         interactions:   1
+   HPhob R:189(MET)            1        1
+    ligand title:                         interactions:   1
+   HPhob R:219(PHE)            1        4
+    ligand title:                         interactions:   4
+   HPhob R:223(LEU)            1        3
+    ligand title:                         interactions:   3
+Total Hydrophobic interactions: 31
+
+========== Aromatic H-Bonds =========================================================================
+     Type Ligand Title                  LigResidue     LigAtom   RecResidue     RecAtom   Dist  Angle
+ Ar-HBond      1                          _:0(UNK)    12( O  )   R:219(PHE)  2903( HE2)  2.569    N/A
+ Ar-HBond      1                          _:0(UNK)    16( O  )   R:205(PHE)  2670( HD1)  2.509    N/A
+ Ar-HBond      1                          _:0(UNK)    61( HXT)   R:216(GLU)  2844( O  )  2.641    N/A
+ Ar-HBond      1                          _:0(UNK)    67( HXT)   R:182(ALA)  2313( O  )  2.666    N/A
+
+Interactions grouped by receptor residue:
+    Type Residue        # of ligands # of contacts
+Ar-HBond R:182(ALA)            1        1
+    ligand title:                         interactions:   1
+Ar-HBond R:205(PHE)            1        1
+    ligand title:                         interactions:   1
+Ar-HBond R:216(GLU)            1        1
+    ligand title:                         interactions:   1
+Ar-HBond R:219(PHE)            1        1
+    ligand title:                         interactions:   1
+Total Aromatic H-Bonds interactions: 4

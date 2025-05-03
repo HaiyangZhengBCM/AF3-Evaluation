@@ -1,0 +1,652 @@
+Number of ligands: 1
+
+
+========== Hydrogen Bonds ===========================================================================
+     Type Ligand Title                  LigResidue     LigAtom   RecResidue     RecAtom   Dist  Angle
+HAccep nc      1                          B:1(LIG)    34(O_10)   A:144(TYR)  2315( HH )  1.732  121.6
+HAccep nn      1                          B:1(LIG)    35(O_11)   A:318(ASN)  5262(HD22)  2.060   99.4
+HAccep cn      1                          B:1(LIG)    41( O_7)   A:219(LYS)  3570( HZ1)  1.934  118.7
+HAccep nn      1                          B:1(LIG)    41( O_7)   A:302(GLN)  4995(HE22)  2.205  106.8
+HAccep cc      1                          B:1(LIG)    42( O_8)   A:295(ARG)  4875(HH12)  2.299  156.4
+HAccep nc      1                          B:1(LIG)    42( O_8)   A:295(ARG)  4877(HH22)  2.177  130.5
+
+Interactions grouped by receptor residue:
+    Type Residue        # of ligands # of contacts
+   HBond A:144(TYR)            1        1
+    ligand title:                         interactions:   1
+   HBond A:219(LYS)            1        1
+    ligand title:                         interactions:   1
+   HBond A:295(ARG)            1        2
+    ligand title:                         interactions:   2
+   HBond A:302(GLN)            1        1
+    ligand title:                         interactions:   1
+   HBond A:318(ASN)            1        1
+    ligand title:                         interactions:   1
+Total Hydrogen Bonds interactions: 6
+
+========== Good Contacts ============================================================================
+     Type Ligand Title                  LigResidue     LigAtom   RecResidue     RecAtom   Dist  Angle
+     Good      1                          B:1(LIG)     1( P_1)   A:219(LYS)  3558( CE )  4.468    N/A
+     Good      1                          B:1(LIG)     1( P_1)   A:219(LYS)  3559( NZ )  3.908    N/A
+     Good      1                          B:1(LIG)     1( P_1)   A:219(LYS)  3570( HZ1)  2.941    N/A
+     Good      1                          B:1(LIG)     1( P_1)   A:295(ARG)  4865( NH2)  4.342    N/A
+     Good      1                          B:1(LIG)     1( P_1)   A:295(ARG)  4875(HH12)  3.704    N/A
+     Good      1                          B:1(LIG)     1( P_1)   A:295(ARG)  4877(HH22)  3.334    N/A
+     Good      1                          B:1(LIG)     1( P_1)   A:298(TYR)  4927( CE2)  4.444    N/A
+     Good      1                          B:1(LIG)     1( P_1)   A:298(TYR)  4937( HE2)  3.458    N/A
+     Good      1                          B:1(LIG)     1( P_1)   A:302(GLN)  4987( NE2)  3.937    N/A
+     Good      1                          B:1(LIG)     1( P_1)   A:302(GLN)  4995(HE22)  2.985    N/A
+     Good      1                          B:1(LIG)     2( C_1)     A:2(TYR)    23( CE2)  3.919    N/A
+     Good      1                          B:1(LIG)     2( C_1)     A:2(TYR)    24( CZ )  3.926    N/A
+     Good      1                          B:1(LIG)     2( C_1)     A:2(TYR)    25( OH )  3.248    N/A
+     Good      1                          B:1(LIG)     2( C_1)     A:2(TYR)    33( HE2)  3.327    N/A
+     Good      1                          B:1(LIG)     2( C_1)   A:140(GLY)  2240( HA3)  3.647    N/A
+     Good      1                          B:1(LIG)     2( C_1)   A:213(CYS)  3449( O  )  3.993    N/A
+     Good      1                          B:1(LIG)     3(C_10)   A:141(THR)  2243( CA )  4.440    N/A
+     Good      1                          B:1(LIG)     3(C_10)   A:141(THR)  2250( HA )  3.381    N/A
+     Good      1                          B:1(LIG)     3(C_10)   A:144(TYR)  2299( CB )  4.080    N/A
+     Good      1                          B:1(LIG)     3(C_10)   A:144(TYR)  2300( CG )  4.212    N/A
+     Good      1                          B:1(LIG)     3(C_10)   A:144(TYR)  2302( CD2)  3.794    N/A
+     Good      1                          B:1(LIG)     3(C_10)   A:144(TYR)  2310( HB2)  3.323    N/A
+     Good      1                          B:1(LIG)     3(C_10)   A:144(TYR)  2312( HD2)  3.157    N/A
+     Good      1                          B:1(LIG)     4(C_11)   A:137(LYS)  2201( HZ2)  3.451    N/A
+     Good      1                          B:1(LIG)     4(C_11)   A:140(GLY)  2237( C  )  4.135    N/A
+     Good      1                          B:1(LIG)     4(C_11)   A:140(GLY)  2238( O  )  4.052    N/A
+     Good      1                          B:1(LIG)     4(C_11)   A:141(THR)  2242( N  )  4.027    N/A
+     Good      1                          B:1(LIG)     4(C_11)   A:141(THR)  2243( CA )  3.791    N/A
+     Good      1                          B:1(LIG)     4(C_11)   A:141(THR)  2246( CB )  4.314    N/A
+     Good      1                          B:1(LIG)     4(C_11)   A:141(THR)  2248( OG1)  3.885    N/A
+     Good      1                          B:1(LIG)     4(C_11)   A:141(THR)  2250( HA )  2.885    N/A
+     Good      1                          B:1(LIG)     4(C_11)   A:144(TYR)  2302( CD2)  4.400    N/A
+     Good      1                          B:1(LIG)     4(C_11)   A:144(TYR)  2312( HD2)  3.520    N/A
+     Good      1                          B:1(LIG)     5(C_12)   A:137(LYS)  2188( CE )  3.828    N/A
+     Good      1                          B:1(LIG)     5(C_12)   A:137(LYS)  2189( NZ )  3.713    N/A
+     Good      1                          B:1(LIG)     5(C_12)   A:137(LYS)  2198( HE3)  3.068    N/A
+     Good      1                          B:1(LIG)     5(C_12)   A:137(LYS)  2200( HZ1)  3.674    N/A
+     Good      1                          B:1(LIG)     5(C_12)   A:137(LYS)  2201( HZ2)  3.166    N/A
+     Good      1                          B:1(LIG)     5(C_12)   A:141(THR)  2242( N  )  4.212    N/A
+     Good      1                          B:1(LIG)     5(C_12)   A:141(THR)  2243( CA )  3.739    N/A
+     Good      1                          B:1(LIG)     5(C_12)   A:141(THR)  2246( CB )  3.731    N/A
+     Good      1                          B:1(LIG)     5(C_12)   A:141(THR)  2247( CG2)  3.822    N/A
+     Good      1                          B:1(LIG)     5(C_12)   A:141(THR)  2248( OG1)  3.064    N/A
+     Good      1                          B:1(LIG)     5(C_12)   A:141(THR)  2250( HA )  2.993    N/A
+     Good      1                          B:1(LIG)     5(C_12)   A:141(THR)  2254(HG23)  3.091    N/A
+     Good      1                          B:1(LIG)     5(C_12)   A:141(THR)  2255( HG1)  3.503    N/A
+     Good      1                          B:1(LIG)     5(C_12)   A:198(MET)  3223( HE2)  3.551    N/A
+     Good      1                          B:1(LIG)     6(C_13)   A:137(LYS)  2198( HE3)  3.651    N/A
+     Good      1                          B:1(LIG)     6(C_13)   A:141(THR)  2243( CA )  4.276    N/A
+     Good      1                          B:1(LIG)     6(C_13)   A:141(THR)  2246( CB )  4.055    N/A
+     Good      1                          B:1(LIG)     6(C_13)   A:141(THR)  2247( CG2)  3.584    N/A
+     Good      1                          B:1(LIG)     6(C_13)   A:141(THR)  2248( OG1)  3.612    N/A
+     Good      1                          B:1(LIG)     6(C_13)   A:141(THR)  2250( HA )  3.491    N/A
+     Good      1                          B:1(LIG)     6(C_13)   A:141(THR)  2254(HG23)  2.647    N/A
+     Good      1                          B:1(LIG)     6(C_13)   A:198(MET)  3212( CB )  4.189    N/A
+     Good      1                          B:1(LIG)     6(C_13)   A:198(MET)  3213( CG )  3.909    N/A
+     Good      1                          B:1(LIG)     6(C_13)   A:198(MET)  3215( CE )  4.170    N/A
+     Good      1                          B:1(LIG)     6(C_13)   A:198(MET)  3220( HG3)  2.959    N/A
+     Good      1                          B:1(LIG)     6(C_13)   A:198(MET)  3223( HE2)  3.197    N/A
+     Good      1                          B:1(LIG)     7(C_14)   A:141(THR)  2247( CG2)  4.267    N/A
+     Good      1                          B:1(LIG)     7(C_14)   A:141(THR)  2254(HG23)  3.194    N/A
+     Good      1                          B:1(LIG)     7(C_14)   A:198(MET)  3220( HG3)  3.524    N/A
+     Good      1                          B:1(LIG)     7(C_14)   A:228(PHE)  3696( CE2)  4.091    N/A
+     Good      1                          B:1(LIG)     7(C_14)   A:228(PHE)  3705( HE2)  3.066    N/A
+     Good      1                          B:1(LIG)     8(C_15)   A:141(THR)  2247( CG2)  4.019    N/A
+     Good      1                          B:1(LIG)     8(C_15)   A:141(THR)  2254(HG23)  3.115    N/A
+     Good      1                          B:1(LIG)     8(C_15)   A:194(GLY)  3150( C  )  4.184    N/A
+     Good      1                          B:1(LIG)     8(C_15)   A:194(GLY)  3151( O  )  3.965    N/A
+     Good      1                          B:1(LIG)     8(C_15)   A:198(MET)  3220( HG3)  3.555    N/A
+     Good      1                          B:1(LIG)     8(C_15)   A:228(PHE)  3696( CE2)  4.321    N/A
+     Good      1                          B:1(LIG)     8(C_15)   A:228(PHE)  3697( CZ )  4.332    N/A
+     Good      1                          B:1(LIG)     8(C_15)   A:228(PHE)  3705( HE2)  3.607    N/A
+     Good      1                          B:1(LIG)     8(C_15)   A:228(PHE)  3706( HZ )  3.630    N/A
+     Good      1                          B:1(LIG)     9(C_16)   A:141(THR)  2254(HG23)  3.689    N/A
+     Good      1                          B:1(LIG)     9(C_16)   A:145(MET)  2321( CG )  4.173    N/A
+     Good      1                          B:1(LIG)     9(C_16)   A:145(MET)  2328( HG3)  3.355    N/A
+     Good      1                          B:1(LIG)     9(C_16)   A:228(PHE)  3706( HZ )  3.685    N/A
+     Good      1                          B:1(LIG)    10(C_17)   A:144(TYR)  2297( C  )  4.223    N/A
+     Good      1                          B:1(LIG)    10(C_17)   A:144(TYR)  2299( CB )  4.286    N/A
+     Good      1                          B:1(LIG)    10(C_17)   A:144(TYR)  2309( HB3)  3.749    N/A
+     Good      1                          B:1(LIG)    10(C_17)   A:145(MET)  2316( N  )  4.131    N/A
+     Good      1                          B:1(LIG)    10(C_17)   A:145(MET)  2317( CA )  4.386    N/A
+     Good      1                          B:1(LIG)    10(C_17)   A:145(MET)  2321( CG )  4.167    N/A
+     Good      1                          B:1(LIG)    10(C_17)   A:145(MET)  2325( HA )  3.713    N/A
+     Good      1                          B:1(LIG)    10(C_17)   A:145(MET)  2328( HG3)  3.266    N/A
+     Good      1                          B:1(LIG)    11(C_18)   A:144(TYR)  2297( C  )  3.546    N/A
+     Good      1                          B:1(LIG)    11(C_18)   A:144(TYR)  2298( O  )  3.373    N/A
+     Good      1                          B:1(LIG)    11(C_18)   A:144(TYR)  2299( CB )  4.213    N/A
+     Good      1                          B:1(LIG)    11(C_18)   A:144(TYR)  2309( HB3)  3.538    N/A
+     Good      1                          B:1(LIG)    11(C_18)   A:145(MET)  2316( N  )  3.617    N/A
+     Good      1                          B:1(LIG)    11(C_18)   A:145(MET)  2317( CA )  3.687    N/A
+     Good      1                          B:1(LIG)    11(C_18)   A:145(MET)  2321( CG )  4.137    N/A
+     Good      1                          B:1(LIG)    11(C_18)   A:145(MET)  2325( HA )  2.848    N/A
+     Good      1                          B:1(LIG)    11(C_18)   A:145(MET)  2328( HG3)  3.476    N/A
+     Good      1                          B:1(LIG)    11(C_18)   A:148(TYR)  2368( CB )  4.335    N/A
+     Good      1                          B:1(LIG)    11(C_18)   A:148(TYR)  2371( CD2)  3.985    N/A
+     Good      1                          B:1(LIG)    11(C_18)   A:148(TYR)  2379( HB2)  3.364    N/A
+     Good      1                          B:1(LIG)    11(C_18)   A:148(TYR)  2381( HD2)  3.102    N/A
+     Good      1                          B:1(LIG)    12(C_19)   A:144(TYR)  2297( C  )  4.271    N/A
+     Good      1                          B:1(LIG)    12(C_19)   A:144(TYR)  2298( O  )  3.918    N/A
+     Good      1                          B:1(LIG)    12(C_19)   A:145(MET)  2316( N  )  4.123    N/A
+     Good      1                          B:1(LIG)    12(C_19)   A:145(MET)  2317( CA )  3.667    N/A
+     Good      1                          B:1(LIG)    12(C_19)   A:145(MET)  2320( CB )  4.395    N/A
+     Good      1                          B:1(LIG)    12(C_19)   A:145(MET)  2321( CG )  3.943    N/A
+     Good      1                          B:1(LIG)    12(C_19)   A:145(MET)  2325( HA )  2.616    N/A
+     Good      1                          B:1(LIG)    12(C_19)   A:145(MET)  2328( HG3)  3.603    N/A
+     Good      1                          B:1(LIG)    12(C_19)   A:145(MET)  2329( HG2)  3.386    N/A
+     Good      1                          B:1(LIG)    12(C_19)   A:148(TYR)  2368( CB )  4.041    N/A
+     Good      1                          B:1(LIG)    12(C_19)   A:148(TYR)  2379( HB2)  3.041    N/A
+     Good      1                          B:1(LIG)    12(C_19)   A:148(TYR)  2381( HD2)  3.775    N/A
+     Good      1                          B:1(LIG)    13( C_2)     A:2(TYR)    33( HE2)  3.634    N/A
+     Good      1                          B:1(LIG)    13( C_2)   A:140(GLY)  2236( CA )  4.418    N/A
+     Good      1                          B:1(LIG)    13( C_2)   A:140(GLY)  2240( HA3)  3.520    N/A
+     Good      1                          B:1(LIG)    14(C_20)   A:145(MET)  2317( CA )  4.339    N/A
+     Good      1                          B:1(LIG)    14(C_20)   A:145(MET)  2321( CG )  3.755    N/A
+     Good      1                          B:1(LIG)    14(C_20)   A:145(MET)  2325( HA )  3.344    N/A
+     Good      1                          B:1(LIG)    14(C_20)   A:145(MET)  2328( HG3)  3.511    N/A
+     Good      1                          B:1(LIG)    14(C_20)   A:145(MET)  2329( HG2)  2.982    N/A
+     Good      1                          B:1(LIG)    14(C_20)   A:191(ALA)  3113( CA )  4.131    N/A
+     Good      1                          B:1(LIG)    14(C_20)   A:191(ALA)  3116( CB )  4.228    N/A
+     Good      1                          B:1(LIG)    14(C_20)   A:191(ALA)  3118( HA )  3.221    N/A
+     Good      1                          B:1(LIG)    14(C_20)   A:191(ALA)  3119( HB1)  3.761    N/A
+     Good      1                          B:1(LIG)    15(C_21)   A:190(LEU)  3095( C  )  4.271    N/A
+     Good      1                          B:1(LIG)    15(C_21)   A:191(ALA)  3112( N  )  3.924    N/A
+     Good      1                          B:1(LIG)    15(C_21)   A:191(ALA)  3113( CA )  3.562    N/A
+     Good      1                          B:1(LIG)    15(C_21)   A:191(ALA)  3116( CB )  3.635    N/A
+     Good      1                          B:1(LIG)    15(C_21)   A:191(ALA)  3118( HA )  2.860    N/A
+     Good      1                          B:1(LIG)    15(C_21)   A:191(ALA)  3119( HB1)  3.754    N/A
+     Good      1                          B:1(LIG)    15(C_21)   A:191(ALA)  3120( HB2)  3.068    N/A
+     Good      1                          B:1(LIG)    16(C_22)   A:149(ILE)  2390( CG1)  4.055    N/A
+     Good      1                          B:1(LIG)    16(C_22)   A:149(ILE)  2396(HG13)  3.433    N/A
+     Good      1                          B:1(LIG)    16(C_22)   A:149(ILE)  2397(HG12)  3.595    N/A
+     Good      1                          B:1(LIG)    16(C_22)   A:152(ILE)  2441( CD1)  4.330    N/A
+     Good      1                          B:1(LIG)    16(C_22)   A:152(ILE)  2451(HD12)  3.598    N/A
+     Good      1                          B:1(LIG)    16(C_22)   A:187(VAL)  3039( O  )  3.784    N/A
+     Good      1                          B:1(LIG)    16(C_22)   A:187(VAL)  3051(HG23)  3.544    N/A
+     Good      1                          B:1(LIG)    16(C_22)   A:191(ALA)  3112( N  )  4.188    N/A
+     Good      1                          B:1(LIG)    16(C_22)   A:191(ALA)  3113( CA )  4.050    N/A
+     Good      1                          B:1(LIG)    16(C_22)   A:191(ALA)  3116( CB )  3.701    N/A
+     Good      1                          B:1(LIG)    16(C_22)   A:191(ALA)  3118( HA )  3.681    N/A
+     Good      1                          B:1(LIG)    16(C_22)   A:191(ALA)  3120( HB2)  2.799    N/A
+     Good      1                          B:1(LIG)    17(C_23)   A:152(ILE)  2441( CD1)  3.431    N/A
+     Good      1                          B:1(LIG)    17(C_23)   A:152(ILE)  2450(HD11)  3.549    N/A
+     Good      1                          B:1(LIG)    17(C_23)   A:152(ILE)  2451(HD12)  2.969    N/A
+     Good      1                          B:1(LIG)    17(C_23)   A:152(ILE)  2452(HD13)  3.127    N/A
+     Good      1                          B:1(LIG)    17(C_23)   A:187(VAL)  3039( O  )  3.902    N/A
+     Good      1                          B:1(LIG)    17(C_23)   A:187(VAL)  3042( CG2)  4.276    N/A
+     Good      1                          B:1(LIG)    17(C_23)   A:187(VAL)  3051(HG23)  3.216    N/A
+     Good      1                          B:1(LIG)    18(C_24)   A:152(ILE)  2441( CD1)  3.828    N/A
+     Good      1                          B:1(LIG)    18(C_24)   A:152(ILE)  2450(HD11)  3.635    N/A
+     Good      1                          B:1(LIG)    18(C_24)   A:152(ILE)  2451(HD12)  3.723    N/A
+     Good      1                          B:1(LIG)    18(C_24)   A:152(ILE)  2452(HD13)  3.389    N/A
+     Good      1                          B:1(LIG)    18(C_24)   A:190(LEU)  3097( CB )  4.149    N/A
+     Good      1                          B:1(LIG)    18(C_24)   A:190(LEU)  3103( HB3)  3.506    N/A
+     Good      1                          B:1(LIG)    18(C_24)   A:190(LEU)  3104( HB2)  3.693    N/A
+     Good      1                          B:1(LIG)    19(C_25)   A:190(LEU)  3097( CB )  4.172    N/A
+     Good      1                          B:1(LIG)    19(C_25)   A:190(LEU)  3103( HB3)  3.277    N/A
+     Good      1                          B:1(LIG)    20(C_26)   A:190(LEU)  3095( C  )  4.184    N/A
+     Good      1                          B:1(LIG)    20(C_26)   A:190(LEU)  3096( O  )  3.932    N/A
+     Good      1                          B:1(LIG)    20(C_26)   A:190(LEU)  3103( HB3)  3.758    N/A
+     Good      1                          B:1(LIG)    20(C_26)   A:191(ALA)  3113( CA )  4.198    N/A
+     Good      1                          B:1(LIG)    20(C_26)   A:191(ALA)  3118( HA )  3.364    N/A
+     Good      1                          B:1(LIG)    21(C_27)   A:145(MET)  2321( CG )  3.915    N/A
+     Good      1                          B:1(LIG)    21(C_27)   A:145(MET)  2328( HG3)  3.426    N/A
+     Good      1                          B:1(LIG)    21(C_27)   A:145(MET)  2329( HG2)  3.341    N/A
+     Good      1                          B:1(LIG)    21(C_27)   A:191(ALA)  3113( CA )  4.350    N/A
+     Good      1                          B:1(LIG)    21(C_27)   A:191(ALA)  3118( HA )  3.348    N/A
+     Good      1                          B:1(LIG)    21(C_27)   A:194(GLY)  3153( HA3)  3.692    N/A
+     Good      1                          B:1(LIG)    22(C_28)   A:215(HIS)  3479( C  )  4.296    N/A
+     Good      1                          B:1(LIG)    22(C_28)   A:215(HIS)  3480( O  )  3.288    N/A
+     Good      1                          B:1(LIG)    22(C_28)   A:298(TYR)  4928( CZ )  4.445    N/A
+     Good      1                          B:1(LIG)    22(C_28)   A:298(TYR)  4929( OH )  3.388    N/A
+     Good      1                          B:1(LIG)    22(C_28)   A:298(TYR)  4938( HH )  2.546    N/A
+     Good      1                          B:1(LIG)    23(C_29)   A:215(HIS)  3479( C  )  4.026    N/A
+     Good      1                          B:1(LIG)    23(C_29)   A:215(HIS)  3480( O  )  3.289    N/A
+     Good      1                          B:1(LIG)    23(C_29)   A:298(TYR)  4929( OH )  3.522    N/A
+     Good      1                          B:1(LIG)    23(C_29)   A:298(TYR)  4938( HH )  2.906    N/A
+     Good      1                          B:1(LIG)    23(C_29)   A:318(ASN)  5262(HD22)  3.591    N/A
+     Good      1                          B:1(LIG)    24( C_3)   A:144(TYR)  2302( CD2)  3.774    N/A
+     Good      1                          B:1(LIG)    24( C_3)   A:144(TYR)  2304( CE2)  3.557    N/A
+     Good      1                          B:1(LIG)    24( C_3)   A:144(TYR)  2312( HD2)  3.514    N/A
+     Good      1                          B:1(LIG)    24( C_3)   A:144(TYR)  2314( HE2)  3.109    N/A
+     Good      1                          B:1(LIG)    25(C_30)   A:144(TYR)  2306( OH )  3.427    N/A
+     Good      1                          B:1(LIG)    25(C_30)   A:144(TYR)  2315( HH )  2.615    N/A
+     Good      1                          B:1(LIG)    25(C_30)   A:295(ARG)  4875(HH12)  3.602    N/A
+     Good      1                          B:1(LIG)    25(C_30)   A:298(TYR)  4929( OH )  3.796    N/A
+     Good      1                          B:1(LIG)    25(C_30)   A:298(TYR)  4938( HH )  3.232    N/A
+     Good      1                          B:1(LIG)    25(C_30)   A:318(ASN)  5256( ND2)  3.460    N/A
+     Good      1                          B:1(LIG)    25(C_30)   A:318(ASN)  5262(HD22)  2.579    N/A
+     Good      1                          B:1(LIG)    25(C_30)   A:322(LEU)  5331(HD21)  3.471    N/A
+     Good      1                          B:1(LIG)    26( C_4)   A:144(TYR)  2302( CD2)  4.135    N/A
+     Good      1                          B:1(LIG)    26( C_4)   A:144(TYR)  2304( CE2)  3.605    N/A
+     Good      1                          B:1(LIG)    26( C_4)   A:144(TYR)  2305( CZ )  4.087    N/A
+     Good      1                          B:1(LIG)    26( C_4)   A:144(TYR)  2314( HE2)  3.326    N/A
+     Good      1                          B:1(LIG)    27( C_5)   A:144(TYR)  2300( CG )  4.323    N/A
+     Good      1                          B:1(LIG)    27( C_5)   A:144(TYR)  2302( CD2)  3.858    N/A
+     Good      1                          B:1(LIG)    27( C_5)   A:144(TYR)  2303( CE1)  4.188    N/A
+     Good      1                          B:1(LIG)    27( C_5)   A:144(TYR)  2304( CE2)  3.549    N/A
+     Good      1                          B:1(LIG)    27( C_5)   A:144(TYR)  2305( CZ )  3.719    N/A
+     Good      1                          B:1(LIG)    27( C_5)   A:144(TYR)  2306( OH )  4.122    N/A
+     Good      1                          B:1(LIG)    27( C_5)   A:144(TYR)  2314( HE2)  3.730    N/A
+     Good      1                          B:1(LIG)    27( C_5)   A:229(ASN)  3713( ND2)  4.134    N/A
+     Good      1                          B:1(LIG)    27( C_5)   A:295(ARG)  4865( NH2)  3.856    N/A
+     Good      1                          B:1(LIG)    27( C_5)   A:295(ARG)  4877(HH22)  3.279    N/A
+     Good      1                          B:1(LIG)    28( C_6)   A:144(TYR)  2300( CG )  4.121    N/A
+     Good      1                          B:1(LIG)    28( C_6)   A:144(TYR)  2301( CD1)  4.377    N/A
+     Good      1                          B:1(LIG)    28( C_6)   A:144(TYR)  2302( CD2)  4.272    N/A
+     Good      1                          B:1(LIG)    28( C_6)   A:229(ASN)  3712( CG )  4.122    N/A
+     Good      1                          B:1(LIG)    28( C_6)   A:229(ASN)  3713( ND2)  3.208    N/A
+     Good      1                          B:1(LIG)    28( C_6)   A:229(ASN)  3719(HD22)  2.912    N/A
+     Good      1                          B:1(LIG)    28( C_6)   A:229(ASN)  3720(HD21)  3.248    N/A
+     Good      1                          B:1(LIG)    29( C_7)   A:228(PHE)  3694( CD2)  3.887    N/A
+     Good      1                          B:1(LIG)    29( C_7)   A:228(PHE)  3696( CE2)  3.637    N/A
+     Good      1                          B:1(LIG)    29( C_7)   A:228(PHE)  3703( HD2)  3.437    N/A
+     Good      1                          B:1(LIG)    29( C_7)   A:228(PHE)  3705( HE2)  2.931    N/A
+     Good      1                          B:1(LIG)    29( C_7)   A:229(ASN)  3712( CG )  4.399    N/A
+     Good      1                          B:1(LIG)    29( C_7)   A:229(ASN)  3713( ND2)  3.177    N/A
+     Good      1                          B:1(LIG)    29( C_7)   A:229(ASN)  3719(HD22)  2.857    N/A
+     Good      1                          B:1(LIG)    29( C_7)   A:229(ASN)  3720(HD21)  2.915    N/A
+     Good      1                          B:1(LIG)    29( C_7)   A:232(LEU)  3767( CD2)  3.861    N/A
+     Good      1                          B:1(LIG)    29( C_7)   A:232(LEU)  3776(HD21)  3.739    N/A
+     Good      1                          B:1(LIG)    29( C_7)   A:232(LEU)  3777(HD22)  3.358    N/A
+     Good      1                          B:1(LIG)    29( C_7)   A:232(LEU)  3778(HD23)  3.761    N/A
+     Good      1                          B:1(LIG)    30( C_8)   A:144(TYR)  2299( CB )  4.058    N/A
+     Good      1                          B:1(LIG)    30( C_8)   A:144(TYR)  2309( HB3)  3.457    N/A
+     Good      1                          B:1(LIG)    30( C_8)   A:144(TYR)  2310( HB2)  3.710    N/A
+     Good      1                          B:1(LIG)    30( C_8)   A:228(PHE)  3694( CD2)  4.427    N/A
+     Good      1                          B:1(LIG)    30( C_8)   A:228(PHE)  3696( CE2)  3.685    N/A
+     Good      1                          B:1(LIG)    30( C_8)   A:228(PHE)  3705( HE2)  2.739    N/A
+     Good      1                          B:1(LIG)    30( C_8)   A:232(LEU)  3767( CD2)  4.132    N/A
+     Good      1                          B:1(LIG)    30( C_8)   A:232(LEU)  3776(HD21)  3.738    N/A
+     Good      1                          B:1(LIG)    31( C_9)   A:144(TYR)  2299( CB )  4.329    N/A
+     Good      1                          B:1(LIG)    31( C_9)   A:144(TYR)  2310( HB2)  3.628    N/A
+     Good      1                          B:1(LIG)    31( C_9)   A:228(PHE)  3696( CE2)  4.265    N/A
+     Good      1                          B:1(LIG)    31( C_9)   A:228(PHE)  3705( HE2)  3.199    N/A
+     Good      1                          B:1(LIG)    32( N_1)   A:213(CYS)  3449( O  )  3.689    N/A
+     Good      1                          B:1(LIG)    32( N_1)   A:214(PHE)  3458( CA )  3.632    N/A
+     Good      1                          B:1(LIG)    32( N_1)   A:214(PHE)  3459( C  )  3.864    N/A
+     Good      1                          B:1(LIG)    32( N_1)   A:214(PHE)  3469( HA )  2.645    N/A
+     Good      1                          B:1(LIG)    32( N_1)   A:215(HIS)  3477( N  )  3.632    N/A
+     Good      1                          B:1(LIG)    32( N_1)   A:215(HIS)  3479( C  )  4.068    N/A
+     Good      1                          B:1(LIG)    32( N_1)   A:215(HIS)  3480( O  )  3.307    N/A
+     Good      1                          B:1(LIG)    32( N_1)   A:215(HIS)  3487( H  )  3.211    N/A
+     Good      1                          B:1(LIG)    33( O_1)   A:144(TYR)  2304( CE2)  4.149    N/A
+     Good      1                          B:1(LIG)    33( O_1)   A:144(TYR)  2314( HE2)  3.364    N/A
+     Good      1                          B:1(LIG)    34(O_10)   A:144(TYR)  2304( CE2)  3.835    N/A
+     Good      1                          B:1(LIG)    34(O_10)   A:144(TYR)  2305( CZ )  3.653    N/A
+     Good      1                          B:1(LIG)    34(O_10)   A:144(TYR)  2314( HE2)  3.222    N/A
+     Good      1                          B:1(LIG)    34(O_10)   A:318(ASN)  5256( ND2)  3.941    N/A
+     Good      1                          B:1(LIG)    34(O_10)   A:318(ASN)  5262(HD22)  3.024    N/A
+     Good      1                          B:1(LIG)    34(O_10)   A:322(LEU)  5322( CD2)  3.872    N/A
+     Good      1                          B:1(LIG)    34(O_10)   A:322(LEU)  5331(HD21)  2.981    N/A
+     Good      1                          B:1(LIG)    35(O_11)   A:144(TYR)  2306( OH )  3.504    N/A
+     Good      1                          B:1(LIG)    35(O_11)   A:144(TYR)  2315( HH )  2.949    N/A
+     Good      1                          B:1(LIG)    35(O_11)   A:295(ARG)  4864( NH1)  3.329    N/A
+     Good      1                          B:1(LIG)    35(O_11)   A:295(ARG)  4875(HH12)  2.525    N/A
+     Good      1                          B:1(LIG)    35(O_11)   A:295(ARG)  4876(HH11)  3.426    N/A
+     Good      1                          B:1(LIG)    35(O_11)   A:298(TYR)  4927( CE2)  3.797    N/A
+     Good      1                          B:1(LIG)    35(O_11)   A:298(TYR)  4928( CZ )  3.560    N/A
+     Good      1                          B:1(LIG)    35(O_11)   A:298(TYR)  4929( OH )  3.159    N/A
+     Good      1                          B:1(LIG)    35(O_11)   A:298(TYR)  4938( HH )  2.688    N/A
+     Good      1                          B:1(LIG)    35(O_11)   A:318(ASN)  5255( CG )  3.747    N/A
+     Good      1                          B:1(LIG)    35(O_11)   A:318(ASN)  5256( ND2)  2.944    N/A
+     Good      1                          B:1(LIG)    35(O_11)   A:318(ASN)  5257( OD1)  3.812    N/A
+     Good      1                          B:1(LIG)    36( O_2)   A:144(TYR)  2302( CD2)  4.205    N/A
+     Good      1                          B:1(LIG)    36( O_2)   A:229(ASN)  3712( CG )  4.019    N/A
+     Good      1                          B:1(LIG)    36( O_2)   A:229(ASN)  3713( ND2)  3.264    N/A
+     Good      1                          B:1(LIG)    36( O_2)   A:229(ASN)  3719(HD22)  2.666    N/A
+     Good      1                          B:1(LIG)    37( O_3)   A:144(TYR)  2299( CB )  4.139    N/A
+     Good      1                          B:1(LIG)    37( O_3)   A:144(TYR)  2300( CG )  3.665    N/A
+     Good      1                          B:1(LIG)    37( O_3)   A:144(TYR)  2301( CD1)  3.576    N/A
+     Good      1                          B:1(LIG)    37( O_3)   A:144(TYR)  2302( CD2)  4.141    N/A
+     Good      1                          B:1(LIG)    37( O_3)   A:144(TYR)  2303( CE1)  4.012    N/A
+     Good      1                          B:1(LIG)    37( O_3)   A:148(TYR)  2373( CE2)  3.924    N/A
+     Good      1                          B:1(LIG)    37( O_3)   A:148(TYR)  2383( HE2)  2.927    N/A
+     Good      1                          B:1(LIG)    37( O_3)   A:229(ASN)  3713( ND2)  3.859    N/A
+     Good      1                          B:1(LIG)    38( O_4)   A:198(MET)  3220( HG3)  3.317    N/A
+     Good      1                          B:1(LIG)    38( O_4)   A:228(PHE)  3696( CE2)  3.307    N/A
+     Good      1                          B:1(LIG)    38( O_4)   A:228(PHE)  3697( CZ )  3.738    N/A
+     Good      1                          B:1(LIG)    38( O_4)   A:228(PHE)  3705( HE2)  2.428    N/A
+     Good      1                          B:1(LIG)    38( O_4)   A:228(PHE)  3706( HZ )  3.356    N/A
+     Good      1                          B:1(LIG)    39( O_5)   A:145(MET)  2321( CG )  4.091    N/A
+     Good      1                          B:1(LIG)    39( O_5)   A:145(MET)  2329( HG2)  3.083    N/A
+     Good      1                          B:1(LIG)    39( O_5)   A:191(ALA)  3112( N  )  3.952    N/A
+     Good      1                          B:1(LIG)    39( O_5)   A:191(ALA)  3113( CA )  3.100    N/A
+     Good      1                          B:1(LIG)    39( O_5)   A:191(ALA)  3114( C  )  4.208    N/A
+     Good      1                          B:1(LIG)    39( O_5)   A:191(ALA)  3116( CB )  3.097    N/A
+     Good      1                          B:1(LIG)    39( O_5)   A:191(ALA)  3119( HB1)  2.872    N/A
+     Good      1                          B:1(LIG)    39( O_5)   A:191(ALA)  3120( HB2)  2.865    N/A
+     Good      1                          B:1(LIG)    40( O_6)   A:219(LYS)  3570( HZ1)  3.227    N/A
+     Good      1                          B:1(LIG)    41( O_7)   A:219(LYS)  3558( CE )  3.062    N/A
+     Good      1                          B:1(LIG)    41( O_7)   A:219(LYS)  3559( NZ )  2.783    N/A
+     Good      1                          B:1(LIG)    41( O_7)   A:219(LYS)  3568( HE3)  2.585    N/A
+     Good      1                          B:1(LIG)    41( O_7)   A:219(LYS)  3569( HE2)  3.285    N/A
+     Good      1                          B:1(LIG)    41( O_7)   A:219(LYS)  3571( HZ2)  3.149    N/A
+     Good      1                          B:1(LIG)    41( O_7)   A:302(GLN)  4987( NE2)  3.140    N/A
+     Good      1                          B:1(LIG)    42( O_8)   A:295(ARG)  4863( CZ )  3.614    N/A
+     Good      1                          B:1(LIG)    42( O_8)   A:295(ARG)  4864( NH1)  3.189    N/A
+     Good      1                          B:1(LIG)    42( O_8)   A:295(ARG)  4865( NH2)  3.113    N/A
+     Good      1                          B:1(LIG)    42( O_8)   A:298(TYR)  4927( CE2)  3.330    N/A
+     Good      1                          B:1(LIG)    42( O_8)   A:298(TYR)  4928( CZ )  4.090    N/A
+     Good      1                          B:1(LIG)    42( O_8)   A:298(TYR)  4937( HE2)  2.442    N/A
+     Good      1                          B:1(LIG)    42( O_8)   A:298(TYR)  4938( HH )  3.223    N/A
+     Good      1                          B:1(LIG)    42( O_8)   A:302(GLN)  4987( NE2)  3.841    N/A
+     Good      1                          B:1(LIG)    42( O_8)   A:302(GLN)  4995(HE22)  3.004    N/A
+     Good      1                          B:1(LIG)    44(H_11)     A:2(TYR)    23( CE2)  3.766    N/A
+     Good      1                          B:1(LIG)    44(H_11)     A:2(TYR)    24( CZ )  3.472    N/A
+     Good      1                          B:1(LIG)    44(H_11)     A:2(TYR)    25( OH )  2.499    N/A
+     Good      1                          B:1(LIG)    44(H_11)   A:140(GLY)  2240( HA3)  3.052    N/A
+     Good      1                          B:1(LIG)    45(H_12)     A:2(TYR)    23( CE2)  3.196    N/A
+     Good      1                          B:1(LIG)    45(H_12)     A:2(TYR)    24( CZ )  3.363    N/A
+     Good      1                          B:1(LIG)    45(H_12)     A:2(TYR)    25( OH )  3.056    N/A
+     Good      1                          B:1(LIG)    45(H_12)     A:2(TYR)    33( HE2)  2.721    N/A
+     Good      1                          B:1(LIG)    46(H_13)   A:213(CYS)  3449( O  )  3.226    N/A
+     Good      1                          B:1(LIG)    47(HC_1)   A:144(TYR)  2299( CB )  3.580    N/A
+     Good      1                          B:1(LIG)    47(HC_1)   A:144(TYR)  2300( CG )  3.386    N/A
+     Good      1                          B:1(LIG)    47(HC_1)   A:144(TYR)  2302( CD2)  2.902    N/A
+     Good      1                          B:1(LIG)    47(HC_1)   A:144(TYR)  2304( CE2)  3.724    N/A
+     Good      1                          B:1(LIG)    47(HC_1)   A:144(TYR)  2310( HB2)  3.036    N/A
+     Good      1                          B:1(LIG)    47(HC_1)   A:144(TYR)  2312( HD2)  2.459    N/A
+     Good      1                          B:1(LIG)    48(HC_1)   A:140(GLY)  2237( C  )  3.555    N/A
+     Good      1                          B:1(LIG)    48(HC_1)   A:141(THR)  2250( HA )  3.097    N/A
+     Good      1                          B:1(LIG)    49(HC_1)   A:137(LYS)  2187( CD )  3.537    N/A
+     Good      1                          B:1(LIG)    49(HC_1)   A:137(LYS)  2188( CE )  2.980    N/A
+     Good      1                          B:1(LIG)    49(HC_1)   A:137(LYS)  2189( NZ )  3.178    N/A
+     Good      1                          B:1(LIG)    49(HC_1)   A:137(LYS)  2198( HE3)  2.192    N/A
+     Good      1                          B:1(LIG)    49(HC_1)   A:137(LYS)  2201( HZ2)  2.722    N/A
+     Good      1                          B:1(LIG)    49(HC_1)   A:141(THR)  2243( CA )  3.764    N/A
+     Good      1                          B:1(LIG)    49(HC_1)   A:141(THR)  2246( CB )  3.493    N/A
+     Good      1                          B:1(LIG)    49(HC_1)   A:141(THR)  2248( OG1)  2.477    N/A
+     Good      1                          B:1(LIG)    49(HC_1)   A:141(THR)  2255( HG1)  2.774    N/A
+     Good      1                          B:1(LIG)    50(HC_1)   A:141(THR)  2247( CG2)  3.372    N/A
+     Good      1                          B:1(LIG)    50(HC_1)   A:141(THR)  2248( OG1)  3.516    N/A
+     Good      1                          B:1(LIG)    50(HC_1)   A:141(THR)  2254(HG23)  2.581    N/A
+     Good      1                          B:1(LIG)    50(HC_1)   A:198(MET)  3212( CB )  3.213    N/A
+     Good      1                          B:1(LIG)    50(HC_1)   A:198(MET)  3213( CG )  3.019    N/A
+     Good      1                          B:1(LIG)    50(HC_1)   A:198(MET)  3218( HB3)  3.057    N/A
+     Good      1                          B:1(LIG)    50(HC_1)   A:198(MET)  3219( HB2)  2.956    N/A
+     Good      1                          B:1(LIG)    50(HC_1)   A:198(MET)  3223( HE2)  3.075    N/A
+     Good      1                          B:1(LIG)    51(H151)   A:194(GLY)  3149( CA )  3.710    N/A
+     Good      1                          B:1(LIG)    51(H151)   A:194(GLY)  3150( C  )  3.470    N/A
+     Good      1                          B:1(LIG)    51(H151)   A:194(GLY)  3151( O  )  3.289    N/A
+     Good      1                          B:1(LIG)    51(H151)   A:194(GLY)  3153( HA3)  3.077    N/A
+     Good      1                          B:1(LIG)    52(H152)   A:141(THR)  2247( CG2)  2.994    N/A
+     Good      1                          B:1(LIG)    52(H152)   A:141(THR)  2252(HG21)  3.097    N/A
+     Good      1                          B:1(LIG)    52(H152)   A:141(THR)  2254(HG23)  2.163    N/A
+     Good      1                          B:1(LIG)    53(HC_1)   A:144(TYR)  2299( CB )  3.575    N/A
+     Good      1                          B:1(LIG)    53(HC_1)   A:144(TYR)  2310( HB2)  2.996    N/A
+     Good      1                          B:1(LIG)    54(HC_1)   A:144(TYR)  2296( CA )  3.748    N/A
+     Good      1                          B:1(LIG)    54(HC_1)   A:144(TYR)  2297( C  )  2.843    N/A
+     Good      1                          B:1(LIG)    54(HC_1)   A:144(TYR)  2298( O  )  2.519    N/A
+     Good      1                          B:1(LIG)    54(HC_1)   A:144(TYR)  2299( CB )  3.467    N/A
+     Good      1                          B:1(LIG)    54(HC_1)   A:144(TYR)  2309( HB3)  2.698    N/A
+     Good      1                          B:1(LIG)    54(HC_1)   A:145(MET)  2316( N  )  3.286    N/A
+     Good      1                          B:1(LIG)    54(HC_1)   A:145(MET)  2317( CA )  3.626    N/A
+     Good      1                          B:1(LIG)    54(HC_1)   A:145(MET)  2325( HA )  2.938    N/A
+     Good      1                          B:1(LIG)    54(HC_1)   A:148(TYR)  2371( CD2)  3.107    N/A
+     Good      1                          B:1(LIG)    54(HC_1)   A:148(TYR)  2379( HB2)  2.931    N/A
+     Good      1                          B:1(LIG)    55(HC_1)   A:145(MET)  2317( CA )  3.575    N/A
+     Good      1                          B:1(LIG)    55(HC_1)   A:145(MET)  2325( HA )  2.508    N/A
+     Good      1                          B:1(LIG)    55(HC_1)   A:148(TYR)  2368( CB )  3.212    N/A
+     Good      1                          B:1(LIG)    55(HC_1)   A:148(TYR)  2379( HB2)  2.213    N/A
+     Good      1                          B:1(LIG)    56(H_21)   A:140(GLY)  2236( CA )  3.436    N/A
+     Good      1                          B:1(LIG)    56(H_21)   A:140(GLY)  2237( C  )  3.575    N/A
+     Good      1                          B:1(LIG)    56(H_21)   A:140(GLY)  2240( HA3)  2.651    N/A
+     Good      1                          B:1(LIG)    57(H_22)     A:2(TYR)    33( HE2)  2.957    N/A
+     Good      1                          B:1(LIG)    57(H_22)   A:137(LYS)  2201( HZ2)  2.683    N/A
+     Good      1                          B:1(LIG)    58(HC_2)   A:149(ILE)  2390( CG1)  2.983    N/A
+     Good      1                          B:1(LIG)    58(HC_2)   A:149(ILE)  2396(HG13)  2.429    N/A
+     Good      1                          B:1(LIG)    58(HC_2)   A:149(ILE)  2397(HG12)  2.556    N/A
+     Good      1                          B:1(LIG)    58(HC_2)   A:187(VAL)  3051(HG23)  3.082    N/A
+     Good      1                          B:1(LIG)    58(HC_2)   A:191(ALA)  3116( CB )  3.342    N/A
+     Good      1                          B:1(LIG)    58(HC_2)   A:191(ALA)  3120( HB2)  2.367    N/A
+     Good      1                          B:1(LIG)    59(HC_2)   A:152(ILE)  2441( CD1)  2.903    N/A
+     Good      1                          B:1(LIG)    59(HC_2)   A:152(ILE)  2451(HD12)  2.447    N/A
+     Good      1                          B:1(LIG)    59(HC_2)   A:152(ILE)  2452(HD13)  2.472    N/A
+     Good      1                          B:1(LIG)    59(HC_2)   A:187(VAL)  3042( CG2)  3.419    N/A
+     Good      1                          B:1(LIG)    59(HC_2)   A:187(VAL)  3051(HG23)  2.370    N/A
+     Good      1                          B:1(LIG)    60(HC_2)   A:152(ILE)  2441( CD1)  3.669    N/A
+     Good      1                          B:1(LIG)    60(HC_2)   A:152(ILE)  2452(HD13)  3.014    N/A
+     Good      1                          B:1(LIG)    63(HC_2)   A:191(ALA)  3118( HA )  2.766    N/A
+     Good      1                          B:1(LIG)    63(HC_2)   A:194(GLY)  3149( CA )  3.605    N/A
+     Good      1                          B:1(LIG)    63(HC_2)   A:194(GLY)  3150( C  )  3.786    N/A
+     Good      1                          B:1(LIG)    63(HC_2)   A:194(GLY)  3153( HA3)  2.669    N/A
+     Good      1                          B:1(LIG)    64(H281)   A:215(HIS)  3479( C  )  3.787    N/A
+     Good      1                          B:1(LIG)    64(H281)   A:215(HIS)  3480( O  )  2.631    N/A
+     Good      1                          B:1(LIG)    65(H282)   A:298(TYR)  4927( CE2)  3.693    N/A
+     Good      1                          B:1(LIG)    65(H282)   A:298(TYR)  4928( CZ )  3.500    N/A
+     Good      1                          B:1(LIG)    65(H282)   A:298(TYR)  4929( OH )  2.500    N/A
+     Good      1                          B:1(LIG)    65(H282)   A:298(TYR)  4937( HE2)  3.106    N/A
+     Good      1                          B:1(LIG)    66(HC_2)   A:215(HIS)  3479( C  )  3.271    N/A
+     Good      1                          B:1(LIG)    66(HC_2)   A:215(HIS)  3480( O  )  2.803    N/A
+     Good      1                          B:1(LIG)    66(HC_2)   A:298(TYR)  4929( OH )  2.998    N/A
+     Good      1                          B:1(LIG)    66(HC_2)   A:298(TYR)  4938( HH )  2.643    N/A
+     Good      1                          B:1(LIG)    68(H_32)   A:144(TYR)  2302( CD2)  2.758    N/A
+     Good      1                          B:1(LIG)    68(H_32)   A:144(TYR)  2304( CE2)  2.737    N/A
+     Good      1                          B:1(LIG)    68(H_32)   A:144(TYR)  2312( HD2)  2.430    N/A
+     Good      1                          B:1(LIG)    68(H_32)   A:144(TYR)  2314( HE2)  2.407    N/A
+     Good      1                          B:1(LIG)    69(HC_4)   A:144(TYR)  2304( CE2)  3.237    N/A
+     Good      1                          B:1(LIG)    69(HC_4)   A:144(TYR)  2305( CZ )  3.560    N/A
+     Good      1                          B:1(LIG)    69(HC_4)   A:144(TYR)  2306( OH )  3.466    N/A
+     Good      1                          B:1(LIG)    69(HC_4)   A:144(TYR)  2314( HE2)  2.820    N/A
+     Good      1                          B:1(LIG)    70(H_51)   A:295(ARG)  4863( CZ )  3.445    N/A
+     Good      1                          B:1(LIG)    70(H_51)   A:295(ARG)  4864( NH1)  3.524    N/A
+     Good      1                          B:1(LIG)    70(H_51)   A:295(ARG)  4865( NH2)  2.770    N/A
+     Good      1                          B:1(LIG)    70(H_51)   A:295(ARG)  4875(HH12)  3.088    N/A
+     Good      1                          B:1(LIG)    70(H_51)   A:295(ARG)  4877(HH22)  2.215    N/A
+     Good      1                          B:1(LIG)    71(H_52)   A:144(TYR)  2300( CG )  3.370    N/A
+     Good      1                          B:1(LIG)    71(H_52)   A:144(TYR)  2301( CD1)  3.408    N/A
+     Good      1                          B:1(LIG)    71(H_52)   A:144(TYR)  2302( CD2)  2.996    N/A
+     Good      1                          B:1(LIG)    71(H_52)   A:144(TYR)  2303( CE1)  3.115    N/A
+     Good      1                          B:1(LIG)    71(H_52)   A:144(TYR)  2304( CE2)  2.665    N/A
+     Good      1                          B:1(LIG)    71(H_52)   A:144(TYR)  2305( CZ )  2.719    N/A
+     Good      1                          B:1(LIG)    71(H_52)   A:144(TYR)  2306( OH )  3.319    N/A
+     Good      1                          B:1(LIG)    71(H_52)   A:144(TYR)  2314( HE2)  3.083    N/A
+     Good      1                          B:1(LIG)    72(H_71)   A:228(PHE)  3694( CD2)  3.419    N/A
+     Good      1                          B:1(LIG)    72(H_71)   A:228(PHE)  3696( CE2)  3.413    N/A
+     Good      1                          B:1(LIG)    72(H_71)   A:228(PHE)  3703( HD2)  2.756    N/A
+     Good      1                          B:1(LIG)    72(H_71)   A:228(PHE)  3705( HE2)  2.747    N/A
+     Good      1                          B:1(LIG)    72(H_71)   A:229(ASN)  3713( ND2)  2.851    N/A
+     Good      1                          B:1(LIG)    72(H_71)   A:229(ASN)  3719(HD22)  2.293    N/A
+     Good      1                          B:1(LIG)    72(H_71)   A:229(ASN)  3720(HD21)  2.760    N/A
+     Good      1                          B:1(LIG)    73(H_72)   A:228(PHE)  3694( CD2)  3.418    N/A
+     Good      1                          B:1(LIG)    73(H_72)   A:228(PHE)  3696( CE2)  3.243    N/A
+     Good      1                          B:1(LIG)    73(H_72)   A:228(PHE)  3705( HE2)  2.810    N/A
+     Good      1                          B:1(LIG)    73(H_72)   A:229(ASN)  3713( ND2)  2.944    N/A
+     Good      1                          B:1(LIG)    73(H_72)   A:229(ASN)  3719(HD22)  2.971    N/A
+     Good      1                          B:1(LIG)    73(H_72)   A:229(ASN)  3720(HD21)  2.364    N/A
+     Good      1                          B:1(LIG)    73(H_72)   A:232(LEU)  3767( CD2)  2.866    N/A
+     Good      1                          B:1(LIG)    73(H_72)   A:232(LEU)  3776(HD21)  2.866    N/A
+     Good      1                          B:1(LIG)    73(H_72)   A:232(LEU)  3777(HD22)  2.276    N/A
+     Good      1                          B:1(LIG)    73(H_72)   A:232(LEU)  3778(HD23)  2.914    N/A
+     Good      1                          B:1(LIG)    74(H_81)   A:228(PHE)  3696( CE2)  2.973    N/A
+     Good      1                          B:1(LIG)    74(H_81)   A:228(PHE)  3697( CZ )  3.646    N/A
+     Good      1                          B:1(LIG)    74(H_81)   A:232(LEU)  3767( CD2)  3.536    N/A
+     Good      1                          B:1(LIG)    74(H_81)   A:232(LEU)  3776(HD21)  2.927    N/A
+     Good      1                          B:1(LIG)    75(H_82)   A:144(TYR)  2299( CB )  3.046    N/A
+     Good      1                          B:1(LIG)    75(H_82)   A:144(TYR)  2300( CG )  3.592    N/A
+     Good      1                          B:1(LIG)    75(H_82)   A:144(TYR)  2309( HB3)  2.374    N/A
+     Good      1                          B:1(LIG)    75(H_82)   A:144(TYR)  2310( HB2)  2.861    N/A
+     Good      1                          B:1(LIG)    76(H_11)   A:214(PHE)  3458( CA )  3.135    N/A
+     Good      1                          B:1(LIG)    76(H_11)   A:214(PHE)  3459( C  )  3.500    N/A
+     Good      1                          B:1(LIG)    76(H_11)   A:214(PHE)  3469( HA )  2.160    N/A
+
+Interactions grouped by receptor residue:
+    Type Residue        # of ligands # of contacts
+    Good A:2(TYR)              1       13
+    ligand title:                         interactions:  13
+    Good A:137(LYS)            1       13
+    ligand title:                         interactions:  13
+    Good A:140(GLY)            1       10
+    ligand title:                         interactions:  10
+    Good A:141(THR)            1       37
+    ligand title:                         interactions:  37
+    Good A:144(TYR)            1       87
+    ligand title:                         interactions:  87
+    Good A:145(MET)            1       34
+    ligand title:                         interactions:  34
+    Good A:148(TYR)            1       13
+    ligand title:                         interactions:  13
+    Good A:149(ILE)            1        6
+    ligand title:                         interactions:   6
+    Good A:152(ILE)            1       15
+    ligand title:                         interactions:  15
+    Good A:187(VAL)            1        8
+    ligand title:                         interactions:   8
+    Good A:190(LEU)            1        9
+    ligand title:                         interactions:   9
+    Good A:191(ALA)            1       28
+    ligand title:                         interactions:  28
+    Good A:194(GLY)            1       10
+    ligand title:                         interactions:  10
+    Good A:198(MET)            1       14
+    ligand title:                         interactions:  14
+    Good A:213(CYS)            1        3
+    ligand title:                         interactions:   3
+    Good A:214(PHE)            1        6
+    ligand title:                         interactions:   6
+    Good A:215(HIS)            1       12
+    ligand title:                         interactions:  12
+    Good A:219(LYS)            1        9
+    ligand title:                         interactions:   9
+    Good A:228(PHE)            1       29
+    ligand title:                         interactions:  29
+    Good A:229(ASN)            1       19
+    ligand title:                         interactions:  19
+    Good A:232(LEU)            1       12
+    ligand title:                         interactions:  12
+    Good A:295(ARG)            1       17
+    ligand title:                         interactions:  17
+    Good A:298(TYR)            1       23
+    ligand title:                         interactions:  23
+    Good A:302(GLN)            1        5
+    ligand title:                         interactions:   5
+    Good A:318(ASN)            1        8
+    ligand title:                         interactions:   8
+    Good A:322(LEU)            1        3
+    ligand title:                         interactions:   3
+Total Good Contacts interactions: 443
+
+========== Bad Contacts =============================================================================
+     Type Ligand Title                  LigResidue     LigAtom   RecResidue     RecAtom   Dist  Angle
+      Bad      1                          B:1(LIG)    34(O_10)   A:144(TYR)  2306( OH )  2.653    N/A
+      Bad      1                          B:1(LIG)    35(O_11)   A:318(ASN)  5262(HD22)  2.060    N/A
+      Bad      1                          B:1(LIG)    39( O_5)   A:191(ALA)  3118( HA )  2.319    N/A
+      Bad      1                          B:1(LIG)    41( O_7)   A:302(GLN)  4995(HE22)  2.205    N/A
+      Bad      1                          B:1(LIG)    42( O_8)   A:295(ARG)  4875(HH12)  2.299    N/A
+      Bad      1                          B:1(LIG)    42( O_8)   A:295(ARG)  4877(HH22)  2.177    N/A
+      Bad      1                          B:1(LIG)    50(HC_1)   A:198(MET)  3220( HG3)  2.127    N/A
+      Bad      1                          B:1(LIG)    54(HC_1)   A:148(TYR)  2381( HD2)  2.132    N/A
+      Bad      1                          B:1(LIG)    74(H_81)   A:228(PHE)  3705( HE2)  2.101    N/A
+
+Interactions grouped by receptor residue:
+    Type Residue        # of ligands # of contacts
+     Bad A:144(TYR)            1        1
+    ligand title:                         interactions:   1
+     Bad A:148(TYR)            1        1
+    ligand title:                         interactions:   1
+     Bad A:191(ALA)            1        1
+    ligand title:                         interactions:   1
+     Bad A:198(MET)            1        1
+    ligand title:                         interactions:   1
+     Bad A:228(PHE)            1        1
+    ligand title:                         interactions:   1
+     Bad A:295(ARG)            1        2
+    ligand title:                         interactions:   2
+     Bad A:302(GLN)            1        1
+    ligand title:                         interactions:   1
+     Bad A:318(ASN)            1        1
+    ligand title:                         interactions:   1
+Total Bad Contacts interactions: 9
+
+========== Ugly Contacts ============================================================================
+     Type Ligand Title                  LigResidue     LigAtom   RecResidue     RecAtom   Dist  Angle
+     Ugly      1                          B:1(LIG)    34(O_10)   A:144(TYR)  2315( HH )  1.732    N/A
+     Ugly      1                          B:1(LIG)    41( O_7)   A:219(LYS)  3570( HZ1)  1.934    N/A
+     Ugly      1                          B:1(LIG)    65(H282)   A:298(TYR)  4938( HH )  1.617    N/A
+
+Interactions grouped by receptor residue:
+    Type Residue        # of ligands # of contacts
+    Ugly A:144(TYR)            1        1
+    ligand title:                         interactions:   1
+    Ugly A:219(LYS)            1        1
+    ligand title:                         interactions:   1
+    Ugly A:298(TYR)            1        1
+    ligand title:                         interactions:   1
+Total Ugly Contacts interactions: 3
+
+========== Salt Bridges =============================================================================
+     Type Ligand Title                  LigResidue     LigAtom   RecResidue     RecAtom   Dist  Angle
+     Salt      1                          B:1(LIG)    42( O_8)   A:295(ARG)  4864( NH1)  3.189    N/A
+
+Interactions grouped by receptor residue:
+    Type Residue        # of ligands # of contacts
+    Salt A:295(ARG)            1        1
+    ligand title:                         interactions:   1
+Total Salt Bridges interactions: 1
+
+========== Hydrophobic ==============================================================================
+     Type Ligand Title                  LigResidue     LigAtom   RecResidue     RecAtom   Dist  Angle
+    HPhob      1                          B:1(LIG)     2( C_1)     A:2(TYR)    23( CE2)  3.919    N/A
+    HPhob      1                          B:1(LIG)     3(C_10)   A:144(TYR)  2299( CB )  4.080    N/A
+    HPhob      1                          B:1(LIG)     3(C_10)   A:144(TYR)  2302( CD2)  3.794    N/A
+    HPhob      1                          B:1(LIG)     5(C_12)   A:141(THR)  2247( CG2)  3.822    N/A
+    HPhob      1                          B:1(LIG)     6(C_13)   A:141(THR)  2247( CG2)  3.584    N/A
+    HPhob      1                          B:1(LIG)     6(C_13)   A:198(MET)  3213( CG )  3.909    N/A
+    HPhob      1                          B:1(LIG)    11(C_18)   A:148(TYR)  2371( CD2)  3.985    N/A
+    HPhob      1                          B:1(LIG)    12(C_19)   A:145(MET)  2321( CG )  3.943    N/A
+    HPhob      1                          B:1(LIG)    12(C_19)   A:148(TYR)  2368( CB )  4.041    N/A
+    HPhob      1                          B:1(LIG)    16(C_22)   A:149(ILE)  2390( CG1)  4.055    N/A
+    HPhob      1                          B:1(LIG)    16(C_22)   A:191(ALA)  3116( CB )  3.701    N/A
+    HPhob      1                          B:1(LIG)    17(C_23)   A:152(ILE)  2441( CD1)  3.431    N/A
+    HPhob      1                          B:1(LIG)    18(C_24)   A:152(ILE)  2441( CD1)  3.828    N/A
+    HPhob      1                          B:1(LIG)    21(C_27)   A:145(MET)  2321( CG )  3.915    N/A
+    HPhob      1                          B:1(LIG)    29( C_7)   A:228(PHE)  3694( CD2)  3.887    N/A
+    HPhob      1                          B:1(LIG)    29( C_7)   A:228(PHE)  3696( CE2)  3.637    N/A
+    HPhob      1                          B:1(LIG)    29( C_7)   A:232(LEU)  3767( CD2)  3.861    N/A
+    HPhob      1                          B:1(LIG)    30( C_8)   A:144(TYR)  2299( CB )  4.058    N/A
+    HPhob      1                          B:1(LIG)    30( C_8)   A:228(PHE)  3696( CE2)  3.685    N/A
+
+Interactions grouped by receptor residue:
+    Type Residue        # of ligands # of contacts
+   HPhob A:2(TYR)              1        1
+    ligand title:                         interactions:   1
+   HPhob A:141(THR)            1        2
+    ligand title:                         interactions:   2
+   HPhob A:144(TYR)            1        3
+    ligand title:                         interactions:   3
+   HPhob A:145(MET)            1        2
+    ligand title:                         interactions:   2
+   HPhob A:148(TYR)            1        2
+    ligand title:                         interactions:   2
+   HPhob A:149(ILE)            1        1
+    ligand title:                         interactions:   1
+   HPhob A:152(ILE)            1        2
+    ligand title:                         interactions:   2
+   HPhob A:191(ALA)            1        1
+    ligand title:                         interactions:   1
+   HPhob A:198(MET)            1        1
+    ligand title:                         interactions:   1
+   HPhob A:228(PHE)            1        3
+    ligand title:                         interactions:   3
+   HPhob A:232(LEU)            1        1
+    ligand title:                         interactions:   1
+Total Hydrophobic interactions: 19
+
+========== Aromatic H-Bonds =========================================================================
+     Type Ligand Title                  LigResidue     LigAtom   RecResidue     RecAtom   Dist  Angle
+ Ar-HBond      1                          B:1(LIG)    38( O_4)   A:228(PHE)  3705( HE2)  2.428    N/A
+ Ar-HBond      1                          B:1(LIG)    42( O_8)   A:298(TYR)  4937( HE2)  2.442    N/A
+ Ar-HBond      1                          B:1(LIG)    49(HC_1)   A:141(THR)  2248( OG1)  2.477    N/A
+ Ar-HBond      1                          B:1(LIG)    54(HC_1)   A:144(TYR)  2298( O  )  2.519    N/A
+
+Interactions grouped by receptor residue:
+    Type Residue        # of ligands # of contacts
+Ar-HBond A:141(THR)            1        1
+    ligand title:                         interactions:   1
+Ar-HBond A:144(TYR)            1        1
+    ligand title:                         interactions:   1
+Ar-HBond A:228(PHE)            1        1
+    ligand title:                         interactions:   1
+Ar-HBond A:298(TYR)            1        1
+    ligand title:                         interactions:   1
+Total Aromatic H-Bonds interactions: 4
