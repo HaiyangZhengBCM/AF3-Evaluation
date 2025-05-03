@@ -20,4 +20,4 @@ This script contains the AF3 input file compilation functions that we used. Exam
 This script runs Schrodinger Maestro's protein_interaction_analysis.py and conduct comparison between real structures and AF3 predicted structrues. Similar to analyze_interactions_from_schrodinger.ipynb, this script contains a methhod that establish the sequence mapping between protein structures, but this time with a chain ID for the mapping. Examples of Schrodinger's script output has been included in demo_data folder. The authors are requesting permission from DeepMind to publish AF3 predicted structures before official publication of this manuscript. Once the permission is granted, we will upload demo structures for this function. 
 
 # Installation
-To use scripts from this repository, build the environment with the corresponding .yml. 
+To use scripts from this repository, build the environment with the corresponding .yml. Installation time depends on conda. The code should work on all modern hardwares. 
